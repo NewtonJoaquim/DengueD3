@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Casos de Dengue</title>
+        <link rel="stylesheet" href="css/leaflet.css" />
+        <script src="js/leaflet.js"></script> 
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        <script src='js/crossfilter.js' type='text/javascript'></script>
+        <script src='js/dc.js' type='text/javascript'></script>
+        <script src='js/jquery-1.9.1.min.js' type='text/javascript'></script>
+        <script src='js/bootstrap.min.js' type='text/javascript'></script>
+
+        <link href='css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+        <link href='css/dc.css' rel='stylesheet' type='text/css'>
+        <link href='css/style.css' rel='stylesheet' type='text/css'>
+        
+    </head>
+    <body>
+
+        <div id="map"></div>
+        <div class='container' style='font: 16px sans-seriff;'>
+            <div class='row'>
+                <div class='span12' id='dc-time-chart'>
+                    <h4 id="textoCasos">Escolha um bairro</h4>
+                </div>
+            </div>
+        </div>
+        <script src = "js/bairros.js"> </script>
+        <script type="text/javascript">
+
+            d3.csv("data/dengue_cond_2012_2013.csv", function(data){
+
+                var geojson;
+
+                var facts;
+                var quantidade_de_casos;
+                var quantidade_de_notificados;
+
+
+                var map = L.map('map', {zoomControl: false, scrollWheelZoom: false, draggable: false, touchZoom: false, doubleClickZoom: false, boxZoom: false}).setView([-3.792614,-38.515877], 12)
+                    .addLayer(new L.TileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png",
+                    { attribution: '&copy; <a href="http://www.openstreetmap.org/">OpenStreetMap</a> contributors', maxZoom: 17}));
+                    geojson = L.geoJson(bairrosData)//, {
+                    // style: style,
+                    //onEachFeature: onEachFeature})
+                    .addTo(map);
+
+                map._initPathRoot();
+
+                var bairroNome;
+
+				var datasArray = [];
+
+                var svg = d3.select("#map").select("svg"),
+                g = svg.append("g");
+
+                var info = L.control();
+
+                info.onAdd = function (map) {
+                    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+                    this.update();
+                    return this._div;
+                };
+
+                // method that we will use to update the control based on feature properties passed
+                info.update = function (props) {
+                    this._div.innerHTML = (props ? props.name
+                        // '<b>' + props.name + '</b><br ></b>'
+                        : 'Passe o mouse sobre um bairro');
+
+                    bairroNome = this._div.innerHTML;
+                };
+
+            
+
+                info.addTo(map);
+
+		function maximo(){
+			
+			var grupos = d3.nest()
+				.key(function(d){return d.bairro;})
+				.rollup(function(d){
+					return d3.sum(d, function(g){return parseInt(g.notificados) + parseInt(g.clinicos) + parseInt(g.lab);
+});					
+				}).entries(data);
+			var maxBairros = -1;
+			grupos.forEach(function(d){
+				if (d.values > maxBairros){
+					maxBairros = d.values;
+				}	
+			})
+			return maxBairros;
+			
+		}
+		
+		var valorMax = maximo();
+
+		function getColor(nome) {
+
+			var total = 0;
+			
+			var valorPercentual;
+			data.forEach(function(d){
+				if (nome == d.bairro){
+					total = total + parseInt(d.notificados) + parseInt(d.clinicos) + parseInt(d.lab);
+				}
+			})
+
+			valorPercentual = total/valorMax;
+    			return valorPercentual > 0.8 ? '#67000d' :
+           			valorPercentual > 0.7   ? '#a50f15' :
+           			valorPercentual > 0.6   ? '#cb181d' :
+           			valorPercentual > 0.5   ? '#ef3b2c' :
+           			valorPercentual > 0.4   ? '#fb6a4a' :
+           			valorPercentual > 0.3   ? '#fc9272' :
+           			valorPercentual > 0.2   ? '#fcbba1' :
+					//valorPercentual > 0.2   ? '#fee0d2' :
+					//valorPercentual > 0.2   ? '#fff5f0' :
+					//valorPercentual > 0.1   ? '#FED976' :
+                      			'#fee0d2';
+		}
+
+
+                function style(feature) {
+					
+                    return{
+						
+						fillColor: getColor(feature.properties.name),
+                        opacity : 1,
+                        color: 'orange',
+                        fillOpacity: 1
+                    };
+                }
+            
+                L.geoJson(bairrosData, {style: style}).addTo(map); 
+
+                var dtgFormat=d3.time.format("%b-%y");
+
+				data.sort(function(a,b){
+
+					return dtgFormat.parse(a.data)-dtgFormat.parse(b.data);
+
+				});
+
+				data.forEach(function(d){
+					datasArray.push(dtgFormat.parse(d.data));
+				});
+
+                function changeState(e) {
+                    var layer = e.target;
+
+                    layer.setStyle({
+                        color: 'blue',
+                        fillOpacity: 0.6
+                    });
+
+                    layer.bringToFront();
+
+                    info.update(layer.feature.properties);
+
+                    data.forEach(function(d){
+
+                        if (d.bairro == bairroNome){
+                            //console.log("oi");
+                            d.dtg = (dtgFormat.parse(d.data));
+                            d.not =+d.notificados;
+                            d.clin = d.clinicos - d.notificados;
+                            d.la = d.lab - d.clinicos;
+                            //d.dia = d.data;
+							//alert(d.dtg);
+                            //if (d.not < 0){
+                            //    d.not = 0;
+                            //}
+							//if (d.clin < 0){
+                            //    d.clin = 0;
+                            //}
+                            //if (d.la < 0){
+                            //    d.la = 0;
+                            //}
+                        }
+                    })
+
+					document.getElementById("textoCasos").innerHTML = "Casos - " + bairroNome;
+
+                    facts = crossfilter(data);
+
+                    quantidade_de_casos = facts.dimension(function(d,i){
+						return (datasArray[i]);
+                        //return d3.time.month(d.dtg);>
+                    });
+					
+                    quantidade_de_notificados = quantidade_de_casos.group().reduceSum(function(d){
+						if(d.bairro==bairroNome){
+						  //alert(d.notificados);
+						  return d.not;
+						}else{
+							return 0;
+						}
+						
+					});
+
+					quantidade_de_clinicos = quantidade_de_casos.group().reduceSum(function(d){
+
+						if(d.bairro == bairroNome){
+						  return d.clin;
+						}else{
+							return 0;
+						}
+
+					});
+
+					quantidade_de_lab = quantidade_de_casos.group().reduceSum(function(d){
+
+						if(d.bairro == bairroNome){
+						  return d.la;
+						}else{
+							return 0;
+						}
+
+					});				
+
+					var month_names_short = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+					var timeChart = dc.lineChart("#dc-time-chart");
+
+                    timeChart
+						.width(document.getElementById("dc-time-chart").offsetWidth)
+						.height(document.getElementById("dc-time-chart").offsetHeight)
+						.colors(['red','blue','green'])
+						.transitionDuration(0)
+                        .margins({top:10, right:10, bottom:20, left:40})
+                        .dimension(quantidade_de_casos)
+                        .group(quantidade_de_notificados, "notificados")
+						.stack(quantidade_de_clinicos, "clinicos")
+						.stack(quantidade_de_lab, "laboratorio")
+                        .elasticY(true)
+                        .x(d3.time.scale().domain([new Date("2012-01-01"),new Date("2014-01-01")]))   
+						.legend(dc.legend().x(document.getElementById("dc-time-chart").offsetWidth- 150).y(10).itemHeight(13).gap(5))                     
+						.xAxis()
+						//.yAxis()
+						.ticks(24)
+						.tickFormat(function(d){
+							if(d.getYear() == '112'){
+								if(d.getMonth() == 0)
+									return month_names_short[d.getMonth()]+ ' 12';							
+								else
+									return month_names_short[d.getMonth()];
+							}else{				
+								if(d.getYear() == '113'){
+									if(d.getMonth() == 0)
+										return month_names_short[d.getMonth()]+ ' 13';							
+									else
+										return month_names_short[d.getMonth()];
+								}else{
+									return month_names_short[d.getMonth()];
+								}
+							}
+						})
+						//.compose([
+						//	dc.lineChart(timeChart)
+						//		.group(quantidade_de_notificados, "notificados")
+						//		.colors(['red']),
+						//	dc.lineChart(timeChart)
+						//		.group(quantidade_de_notificados, "notificados2")
+						//		.colors(['red'])
+						//])
+						;
+					timeChart.render()
+
+                }
+
+                function resetState(e)  {
+                    geojson.resetStyle(e.target);
+
+                    info.update();
+                }
+
+                function onEachFeature(feature, layer) {
+                    layer.on({
+                       mouseover: changeState,
+                       mouseout: resetState
+                    });
+                }
+
+                geojson = L.geoJson(bairrosData, {
+                    style: style,
+                    onEachFeature: onEachFeature
+                }).addTo(map);
+
+                
+            });
+            
+        </script>
+    </body>
+</html>

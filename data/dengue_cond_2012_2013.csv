@@ -1,0 +1,2809 @@
+bairro_id,data,notificados,clinicos,lab,bairro
+1,Oct-12,1,0,0,Aerolândia
+1,Oct-13,0,0,0,Aerolândia
+1,Jan-13,5,3,1,Aerolândia
+1,Jan-12,10,8,2,Aerolândia
+1,May-13,24,20,0,Aerolândia
+1,May-12,656,623,5,Aerolândia
+1,Aug-13,13,3,0,Aerolândia
+1,Aug-12,8,5,1,Aerolândia
+1,Jun-13,10,2,1,Aerolândia
+1,Jun-12,151,143,4,Aerolândia
+1,Jul-13,7,2,3,Aerolândia
+1,Jul-12,9,8,0,Aerolândia
+1,Nov-13,0,0,0,Aerolândia
+1,Nov-12,2,1,1,Aerolândia
+1,Sep-12,2,1,0,Aerolândia
+1,Sep-13,4,1,1,Aerolândia
+1,Apr-13,30,22,0,Aerolândia
+1,Apr-12,172,154,9,Aerolândia
+1,Dec-12,2,2,0,Aerolândia
+1,Dec-13,0,0,0,Aerolândia
+1,Mar-12,44,39,1,Aerolândia
+1,Mar-13,12,6,0,Aerolândia
+1,Feb-13,7,1,0,Aerolândia
+1,Feb-12,10,7,0,Aerolândia
+2,Oct-12,0,0,0,Aeroporto
+2,Oct-13,0,0,0,Aeroporto
+2,Jan-13,0,0,0,Aeroporto
+2,Jan-12,1,0,1,Aeroporto
+2,May-13,0,0,0,Aeroporto
+2,May-12,10,6,0,Aeroporto
+2,Aug-13,0,0,0,Aeroporto
+2,Aug-12,1,1,0,Aeroporto
+2,Jun-13,1,0,0,Aeroporto
+2,Jun-12,2,0,0,Aeroporto
+2,Jul-13,0,0,0,Aeroporto
+2,Jul-12,1,0,1,Aeroporto
+2,Nov-13,0,0,0,Aeroporto
+2,Nov-12,0,0,0,Aeroporto
+2,Sep-12,0,0,0,Aeroporto
+2,Sep-13,0,0,0,Aeroporto
+2,Apr-13,1,1,0,Aeroporto
+2,Apr-12,4,1,1,Aeroporto
+2,Dec-12,0,0,0,Aeroporto
+2,Dec-13,0,0,0,Aeroporto
+2,Mar-12,0,0,0,Aeroporto
+2,Mar-13,3,0,0,Aeroporto
+2,Feb-13,1,0,0,Aeroporto
+2,Feb-12,0,0,0,Aeroporto
+3,Oct-12,1,1,0,José de Alencar
+3,Oct-13,0,0,0,José de Alencar
+3,Jan-13,0,0,0,José de Alencar
+3,Jan-12,0,0,0,José de Alencar
+3,May-13,21,3,3,José de Alencar
+3,May-12,50,47,0,José de Alencar
+3,Aug-13,6,2,1,José de Alencar
+3,Aug-12,0,0,0,José de Alencar
+3,Jun-13,26,3,1,José de Alencar
+3,Jun-12,18,16,1,José de Alencar
+3,Jul-13,13,4,1,José de Alencar
+3,Jul-12,2,2,0,José de Alencar
+3,Nov-13,0,0,0,José de Alencar
+3,Nov-12,0,0,0,José de Alencar
+3,Sep-12,0,0,0,José de Alencar
+3,Sep-13,1,0,0,José de Alencar
+3,Apr-13,8,2,0,José de Alencar
+3,Apr-12,19,19,0,José de Alencar
+3,Dec-12,1,1,0,José de Alencar
+3,Dec-13,0,0,0,José de Alencar
+3,Mar-12,1,1,0,José de Alencar
+3,Mar-13,7,2,0,José de Alencar
+3,Feb-13,0,0,0,José de Alencar
+3,Feb-12,0,0,0,José de Alencar
+4,Oct-12,2,0,0,Aldeota
+4,Oct-13,0,0,0,Aldeota
+4,Jan-13,8,0,1,Aldeota
+4,Jan-12,6,5,1,Aldeota
+4,May-13,33,7,2,Aldeota
+4,May-12,188,137,29,Aldeota
+4,Aug-13,25,1,6,Aldeota
+4,Aug-12,2,2,0,Aldeota
+4,Jun-13,36,9,5,Aldeota
+4,Jun-12,49,40,3,Aldeota
+4,Jul-13,27,1,5,Aldeota
+4,Jul-12,14,10,1,Aldeota
+4,Nov-13,0,0,0,Aldeota
+4,Nov-12,0,0,0,Aldeota
+4,Sep-12,1,1,0,Aldeota
+4,Sep-13,5,1,1,Aldeota
+4,Apr-13,44,14,4,Aldeota
+4,Apr-12,84,61,12,Aldeota
+4,Dec-12,0,0,0,Aldeota
+4,Dec-13,0,0,0,Aldeota
+4,Mar-12,25,18,3,Aldeota
+4,Mar-13,19,5,0,Aldeota
+4,Feb-13,8,1,0,Aldeota
+4,Feb-12,6,3,1,Aldeota
+5,Oct-12,0,0,0,Alto da Balança
+5,Oct-13,0,0,0,Alto da Balança
+5,Jan-13,0,0,0,Alto da Balança
+5,Jan-12,0,0,0,Alto da Balança
+5,May-13,2,0,0,Alto da Balança
+5,May-12,36,27,5,Alto da Balança
+5,Aug-13,0,0,0,Alto da Balança
+5,Aug-12,0,0,0,Alto da Balança
+5,Jun-13,0,0,0,Alto da Balança
+5,Jun-12,5,5,0,Alto da Balança
+5,Jul-13,3,0,2,Alto da Balança
+5,Jul-12,0,0,0,Alto da Balança
+5,Nov-13,0,0,0,Alto da Balança
+5,Nov-12,0,0,0,Alto da Balança
+5,Sep-12,1,1,0,Alto da Balança
+5,Sep-13,0,0,0,Alto da Balança
+5,Apr-13,1,0,0,Alto da Balança
+5,Apr-12,9,5,3,Alto da Balança
+5,Dec-12,1,0,0,Alto da Balança
+5,Dec-13,0,0,0,Alto da Balança
+5,Mar-12,1,0,1,Alto da Balança
+5,Mar-13,1,0,0,Alto da Balança
+5,Feb-13,1,0,0,Alto da Balança
+5,Feb-12,1,0,1,Alto da Balança
+6,Oct-12,1,1,0,Álvaro Weyne
+6,Oct-13,0,0,0,Álvaro Weyne
+6,Jan-13,1,0,0,Álvaro Weyne
+6,Jan-12,8,2,6,Álvaro Weyne
+6,May-13,24,10,1,Álvaro Weyne
+6,May-12,213,181,17,Álvaro Weyne
+6,Aug-13,12,2,5,Álvaro Weyne
+6,Aug-12,1,0,1,Álvaro Weyne
+6,Jun-13,14,6,1,Álvaro Weyne
+6,Jun-12,44,43,0,Álvaro Weyne
+6,Jul-13,20,4,9,Álvaro Weyne
+6,Jul-12,2,2,0,Álvaro Weyne
+6,Nov-13,0,0,0,Álvaro Weyne
+6,Nov-12,2,0,0,Álvaro Weyne
+6,Sep-12,0,0,0,Álvaro Weyne
+6,Sep-13,4,1,0,Álvaro Weyne
+6,Apr-13,15,7,1,Álvaro Weyne
+6,Apr-12,254,223,18,Álvaro Weyne
+6,Dec-12,0,0,0,Álvaro Weyne
+6,Dec-13,0,0,0,Álvaro Weyne
+6,Mar-12,82,59,15,Álvaro Weyne
+6,Mar-13,9,4,0,Álvaro Weyne
+6,Feb-13,1,0,1,Álvaro Weyne
+6,Feb-12,35,17,14,Álvaro Weyne
+7,Oct-12,1,0,1,Amadeu Furtado
+7,Oct-13,0,0,0,Amadeu Furtado
+7,Jan-13,0,0,0,Amadeu Furtado
+7,Jan-12,1,0,0,Amadeu Furtado
+7,May-13,2,0,1,Amadeu Furtado
+7,May-12,32,20,8,Amadeu Furtado
+7,Aug-13,3,2,1,Amadeu Furtado
+7,Aug-12,0,0,0,Amadeu Furtado
+7,Jun-13,3,2,1,Amadeu Furtado
+7,Jun-12,2,2,0,Amadeu Furtado
+7,Jul-13,2,1,0,Amadeu Furtado
+7,Jul-12,0,0,0,Amadeu Furtado
+7,Nov-13,0,0,0,Amadeu Furtado
+7,Nov-12,0,0,0,Amadeu Furtado
+7,Sep-12,0,0,0,Amadeu Furtado
+7,Sep-13,1,0,0,Amadeu Furtado
+7,Apr-13,2,0,0,Amadeu Furtado
+7,Apr-12,3,2,1,Amadeu Furtado
+7,Dec-12,0,0,0,Amadeu Furtado
+7,Dec-13,0,0,0,Amadeu Furtado
+7,Mar-12,2,0,0,Amadeu Furtado
+7,Mar-13,5,0,1,Amadeu Furtado
+7,Feb-13,0,0,0,Amadeu Furtado
+7,Feb-12,1,0,1,Amadeu Furtado
+8,Oct-12,0,0,0,Ancuri
+8,Oct-13,0,0,0,Ancuri
+8,Jan-13,3,2,0,Ancuri
+8,Jan-12,5,3,1,Ancuri
+8,May-13,78,42,0,Ancuri
+8,May-12,140,130,3,Ancuri
+8,Aug-13,8,6,0,Ancuri
+8,Aug-12,8,8,0,Ancuri
+8,Jun-13,33,11,0,Ancuri
+8,Jun-12,29,28,0,Ancuri
+8,Jul-13,28,15,0,Ancuri
+8,Jul-12,12,12,0,Ancuri
+8,Nov-13,0,0,0,Ancuri
+8,Nov-12,1,0,0,Ancuri
+8,Sep-12,0,0,0,Ancuri
+8,Sep-13,3,0,0,Ancuri
+8,Apr-13,41,17,0,Ancuri
+8,Apr-12,93,87,3,Ancuri
+8,Dec-12,2,1,0,Ancuri
+8,Dec-13,0,0,0,Ancuri
+8,Mar-12,13,11,1,Ancuri
+8,Mar-13,23,0,0,Ancuri
+8,Feb-13,5,2,0,Ancuri
+8,Feb-12,7,5,1,Ancuri
+9,Oct-12,2,2,0,Antônio Bezerra
+9,Oct-13,0,0,0,Antônio Bezerra
+9,Jan-13,13,8,0,Antônio Bezerra
+9,Jan-12,51,33,8,Antônio Bezerra
+9,May-13,39,35,1,Antônio Bezerra
+9,May-12,190,154,15,Antônio Bezerra
+9,Aug-13,32,18,3,Antônio Bezerra
+9,Aug-12,2,1,0,Antônio Bezerra
+9,Jun-13,39,30,2,Antônio Bezerra
+9,Jun-12,51,47,2,Antônio Bezerra
+9,Jul-13,32,22,4,Antônio Bezerra
+9,Jul-12,7,5,0,Antônio Bezerra
+9,Nov-13,0,0,0,Antônio Bezerra
+9,Nov-12,6,4,0,Antônio Bezerra
+9,Sep-12,1,1,0,Antônio Bezerra
+9,Sep-13,15,0,0,Antônio Bezerra
+9,Apr-13,28,23,0,Antônio Bezerra
+9,Apr-12,152,109,17,Antônio Bezerra
+9,Dec-12,2,2,0,Antônio Bezerra
+9,Dec-13,0,0,0,Antônio Bezerra
+9,Mar-12,170,112,34,Antônio Bezerra
+9,Mar-13,11,5,1,Antônio Bezerra
+9,Feb-13,7,3,0,Antônio Bezerra
+9,Feb-12,82,41,28,Antônio Bezerra
+10,Oct-12,0,0,0,Autran Nunes
+10,Oct-13,0,0,0,Autran Nunes
+10,Jan-13,2,1,0,Autran Nunes
+10,Jan-12,8,5,1,Autran Nunes
+10,May-13,19,10,2,Autran Nunes
+10,May-12,111,93,10,Autran Nunes
+10,Aug-13,14,1,1,Autran Nunes
+10,Aug-12,1,1,0,Autran Nunes
+10,Jun-13,9,4,1,Autran Nunes
+10,Jun-12,9,9,0,Autran Nunes
+10,Jul-13,8,3,2,Autran Nunes
+10,Jul-12,2,2,0,Autran Nunes
+10,Nov-13,0,0,0,Autran Nunes
+10,Nov-12,0,0,0,Autran Nunes
+10,Sep-12,1,0,0,Autran Nunes
+10,Sep-13,4,0,0,Autran Nunes
+10,Apr-13,10,6,0,Autran Nunes
+10,Apr-12,19,11,3,Autran Nunes
+10,Dec-12,0,0,0,Autran Nunes
+10,Dec-13,0,0,0,Autran Nunes
+10,Mar-12,28,19,2,Autran Nunes
+10,Mar-13,7,0,0,Autran Nunes
+10,Feb-13,2,1,0,Autran Nunes
+10,Feb-12,10,7,2,Autran Nunes
+11,Oct-12,0,0,0,Bairro de Lourdes
+11,Oct-13,0,0,0,Bairro de Lourdes
+11,Jan-13,1,0,0,Bairro de Lourdes
+11,Jan-12,0,0,0,Bairro de Lourdes
+11,May-13,0,0,0,Bairro de Lourdes
+11,May-12,0,0,0,Bairro de Lourdes
+11,Aug-13,0,0,0,Bairro de Lourdes
+11,Aug-12,0,0,0,Bairro de Lourdes
+11,Jun-13,2,0,0,Bairro de Lourdes
+11,Jun-12,0,0,0,Bairro de Lourdes
+11,Jul-13,1,0,0,Bairro de Lourdes
+11,Jul-12,0,0,0,Bairro de Lourdes
+11,Nov-13,0,0,0,Bairro de Lourdes
+11,Nov-12,0,0,0,Bairro de Lourdes
+11,Sep-12,0,0,0,Bairro de Lourdes
+11,Sep-13,0,0,0,Bairro de Lourdes
+11,Apr-13,0,0,0,Bairro de Lourdes
+11,Apr-12,0,0,0,Bairro de Lourdes
+11,Dec-12,0,0,0,Bairro de Lourdes
+11,Dec-13,0,0,0,Bairro de Lourdes
+11,Mar-12,0,0,0,Bairro de Lourdes
+11,Mar-13,0,0,0,Bairro de Lourdes
+11,Feb-13,0,0,0,Bairro de Lourdes
+11,Feb-12,0,0,0,Bairro de Lourdes
+12,Oct-12,3,1,0,Barra do Ceará
+12,Oct-13,0,0,0,Barra do Ceará
+12,Jan-13,5,4,0,Barra do Ceará
+12,Jan-12,19,13,1,Barra do Ceará
+12,May-13,30,9,3,Barra do Ceará
+12,May-12,413,312,64,Barra do Ceará
+12,Aug-13,17,2,4,Barra do Ceará
+12,Aug-12,3,1,1,Barra do Ceará
+12,Jun-13,41,15,10,Barra do Ceará
+12,Jun-12,56,46,1,Barra do Ceará
+12,Jul-13,22,9,2,Barra do Ceará
+12,Jul-12,8,6,1,Barra do Ceará
+12,Nov-13,0,0,0,Barra do Ceará
+12,Nov-12,4,2,0,Barra do Ceará
+12,Sep-12,2,2,0,Barra do Ceará
+12,Sep-13,16,3,0,Barra do Ceará
+12,Apr-13,29,12,1,Barra do Ceará
+12,Apr-12,251,170,50,Barra do Ceará
+12,Dec-12,2,1,0,Barra do Ceará
+12,Dec-13,0,0,0,Barra do Ceará
+12,Mar-12,130,64,37,Barra do Ceará
+12,Mar-13,24,11,0,Barra do Ceará
+12,Feb-13,7,2,1,Barra do Ceará
+12,Feb-12,49,28,12,Barra do Ceará
+13,Oct-12,6,6,0,Barroso
+13,Oct-13,0,0,0,Barroso
+13,Jan-13,8,8,0,Barroso
+13,Jan-12,14,13,1,Barroso
+13,May-13,64,37,5,Barroso
+13,May-12,491,464,15,Barroso
+13,Aug-13,37,22,4,Barroso
+13,Aug-12,18,16,1,Barroso
+13,Jun-13,67,43,3,Barroso
+13,Jun-12,123,113,2,Barroso
+13,Jul-13,63,45,3,Barroso
+13,Jul-12,28,24,1,Barroso
+13,Nov-13,0,0,0,Barroso
+13,Nov-12,8,5,0,Barroso
+13,Sep-12,8,7,0,Barroso
+13,Sep-13,11,4,2,Barroso
+13,Apr-13,81,55,1,Barroso
+13,Apr-12,196,184,2,Barroso
+13,Dec-12,10,8,0,Barroso
+13,Dec-13,0,0,0,Barroso
+13,Mar-12,86,79,0,Barroso
+13,Mar-13,46,20,4,Barroso
+13,Feb-13,19,11,1,Barroso
+13,Feb-12,29,27,1,Barroso
+14,Oct-12,5,4,0,Bela Vista
+14,Oct-13,0,0,0,Bela Vista
+14,Jan-13,5,3,0,Bela Vista
+14,Jan-12,9,6,1,Bela Vista
+14,May-13,33,24,2,Bela Vista
+14,May-12,460,365,45,Bela Vista
+14,Aug-13,39,30,3,Bela Vista
+14,Aug-12,10,8,0,Bela Vista
+14,Jun-13,36,28,2,Bela Vista
+14,Jun-12,81,65,9,Bela Vista
+14,Jul-13,40,27,7,Bela Vista
+14,Jul-12,21,17,3,Bela Vista
+14,Nov-13,0,0,0,Bela Vista
+14,Nov-12,3,3,0,Bela Vista
+14,Sep-12,3,1,0,Bela Vista
+14,Sep-13,12,5,3,Bela Vista
+14,Apr-13,24,17,2,Bela Vista
+14,Apr-12,113,88,12,Bela Vista
+14,Dec-12,1,1,0,Bela Vista
+14,Dec-13,0,0,0,Bela Vista
+14,Mar-12,34,25,2,Bela Vista
+14,Mar-13,15,11,0,Bela Vista
+14,Feb-13,6,1,0,Bela Vista
+14,Feb-12,20,16,0,Bela Vista
+15,Oct-12,0,0,0,Benfica
+15,Oct-13,0,0,0,Benfica
+15,Jan-13,2,0,0,Benfica
+15,Jan-12,5,1,1,Benfica
+15,May-13,8,5,1,Benfica
+15,May-12,101,81,10,Benfica
+15,Aug-13,9,4,3,Benfica
+15,Aug-12,3,2,1,Benfica
+15,Jun-13,5,2,1,Benfica
+15,Jun-12,14,8,2,Benfica
+15,Jul-13,8,4,2,Benfica
+15,Jul-12,7,4,1,Benfica
+15,Nov-13,0,0,0,Benfica
+15,Nov-12,0,0,0,Benfica
+15,Sep-12,0,0,0,Benfica
+15,Sep-13,1,0,0,Benfica
+15,Apr-13,9,4,2,Benfica
+15,Apr-12,98,67,22,Benfica
+15,Dec-12,0,0,0,Benfica
+15,Dec-13,0,0,0,Benfica
+15,Mar-12,20,15,2,Benfica
+15,Mar-13,4,0,0,Benfica
+15,Feb-13,8,2,1,Benfica
+15,Feb-12,5,3,2,Benfica
+16,Oct-12,0,0,0,Bom Futuro
+16,Oct-13,0,0,0,Bom Futuro
+16,Jan-13,0,0,0,Bom Futuro
+16,Jan-12,1,1,0,Bom Futuro
+16,May-13,1,1,0,Bom Futuro
+16,May-12,14,10,0,Bom Futuro
+16,Aug-13,0,0,0,Bom Futuro
+16,Aug-12,2,2,0,Bom Futuro
+16,Jun-13,2,1,0,Bom Futuro
+16,Jun-12,2,2,0,Bom Futuro
+16,Jul-13,3,2,1,Bom Futuro
+16,Jul-12,1,0,0,Bom Futuro
+16,Nov-13,0,0,0,Bom Futuro
+16,Nov-12,0,0,0,Bom Futuro
+16,Sep-12,0,0,0,Bom Futuro
+16,Sep-13,0,0,0,Bom Futuro
+16,Apr-13,0,0,0,Bom Futuro
+16,Apr-12,7,5,2,Bom Futuro
+16,Dec-12,0,0,0,Bom Futuro
+16,Dec-13,0,0,0,Bom Futuro
+16,Mar-12,7,4,3,Bom Futuro
+16,Mar-13,0,0,0,Bom Futuro
+16,Feb-13,0,0,0,Bom Futuro
+16,Feb-12,3,1,1,Bom Futuro
+17,Oct-12,6,5,0,Bom Jardim
+17,Oct-13,0,0,0,Bom Jardim
+17,Jan-13,25,14,0,Bom Jardim
+17,Jan-12,24,22,0,Bom Jardim
+17,May-13,105,50,12,Bom Jardim
+17,May-12,487,403,35,Bom Jardim
+17,Aug-13,91,32,6,Bom Jardim
+17,Aug-12,8,6,0,Bom Jardim
+17,Jun-13,133,53,27,Bom Jardim
+17,Jun-12,105,91,2,Bom Jardim
+17,Jul-13,117,27,23,Bom Jardim
+17,Jul-12,23,22,0,Bom Jardim
+17,Nov-13,0,0,0,Bom Jardim
+17,Nov-12,6,6,0,Bom Jardim
+17,Sep-12,5,5,0,Bom Jardim
+17,Sep-13,22,9,0,Bom Jardim
+17,Apr-13,89,42,8,Bom Jardim
+17,Apr-12,226,129,29,Bom Jardim
+17,Dec-12,3,2,0,Bom Jardim
+17,Dec-13,0,0,0,Bom Jardim
+17,Mar-12,90,73,5,Bom Jardim
+17,Mar-13,42,15,0,Bom Jardim
+17,Feb-13,25,9,0,Bom Jardim
+17,Feb-12,30,26,4,Bom Jardim
+18,Oct-12,1,0,0,Bom Sucesso
+18,Oct-13,0,0,0,Bom Sucesso
+18,Jan-13,7,6,0,Bom Sucesso
+18,Jan-12,20,15,1,Bom Sucesso
+18,May-13,45,15,8,Bom Sucesso
+18,May-12,254,180,33,Bom Sucesso
+18,Aug-13,45,22,7,Bom Sucesso
+18,Aug-12,2,1,1,Bom Sucesso
+18,Jun-13,29,12,3,Bom Sucesso
+18,Jun-12,34,30,0,Bom Sucesso
+18,Jul-13,30,13,6,Bom Sucesso
+18,Jul-12,12,11,0,Bom Sucesso
+18,Nov-13,0,0,0,Bom Sucesso
+18,Nov-12,3,3,0,Bom Sucesso
+18,Sep-12,4,3,0,Bom Sucesso
+18,Sep-13,9,2,2,Bom Sucesso
+18,Apr-13,31,15,1,Bom Sucesso
+18,Apr-12,145,98,14,Bom Sucesso
+18,Dec-12,5,5,0,Bom Sucesso
+18,Dec-13,0,0,0,Bom Sucesso
+18,Mar-12,82,65,12,Bom Sucesso
+18,Mar-13,21,10,0,Bom Sucesso
+18,Feb-13,19,10,1,Bom Sucesso
+18,Feb-12,29,23,1,Bom Sucesso
+19,Oct-12,1,1,0,Cais do Porto
+19,Oct-13,0,0,0,Cais do Porto
+19,Jan-13,0,0,0,Cais do Porto
+19,Jan-12,1,1,0,Cais do Porto
+19,May-13,2,0,0,Cais do Porto
+19,May-12,74,71,5,Cais do Porto
+19,Aug-13,0,0,0,Cais do Porto
+19,Aug-12,3,3,0,Cais do Porto
+19,Jun-13,0,0,0,Cais do Porto
+19,Jun-12,27,27,0,Cais do Porto
+19,Jul-13,2,1,0,Cais do Porto
+19,Jul-12,3,3,1,Cais do Porto
+19,Nov-13,0,0,0,Cais do Porto
+19,Nov-12,0,0,0,Cais do Porto
+19,Sep-12,0,0,0,Cais do Porto
+19,Sep-13,0,0,0,Cais do Porto
+19,Apr-13,2,0,0,Cais do Porto
+19,Apr-12,23,21,3,Cais do Porto
+19,Dec-12,0,0,0,Cais do Porto
+19,Dec-13,0,0,0,Cais do Porto
+19,Mar-12,24,22,0,Cais do Porto
+19,Mar-13,1,1,0,Cais do Porto
+19,Feb-13,1,0,0,Cais do Porto
+19,Feb-12,3,3,0,Cais do Porto
+20,Oct-12,1,1,0,Cajazeiras
+20,Oct-13,0,0,0,Cajazeiras
+20,Jan-13,1,0,0,Cajazeiras
+20,Jan-12,5,3,2,Cajazeiras
+20,May-13,8,1,2,Cajazeiras
+20,May-12,51,46,2,Cajazeiras
+20,Aug-13,5,5,0,Cajazeiras
+20,Aug-12,4,4,0,Cajazeiras
+20,Jun-13,4,2,0,Cajazeiras
+20,Jun-12,19,16,2,Cajazeiras
+20,Jul-13,9,7,0,Cajazeiras
+20,Jul-12,9,7,1,Cajazeiras
+20,Nov-13,0,0,0,Cajazeiras
+20,Nov-12,1,1,0,Cajazeiras
+20,Sep-12,4,4,0,Cajazeiras
+20,Sep-13,3,1,0,Cajazeiras
+20,Apr-13,28,10,0,Cajazeiras
+20,Apr-12,58,44,10,Cajazeiras
+20,Dec-12,0,0,0,Cajazeiras
+20,Dec-13,0,0,0,Cajazeiras
+20,Mar-12,21,18,1,Cajazeiras
+20,Mar-13,4,1,0,Cajazeiras
+20,Feb-13,3,0,0,Cajazeiras
+20,Feb-12,4,2,1,Cajazeiras
+21,Oct-12,4,3,0,Cambeba
+21,Oct-13,0,0,0,Cambeba
+21,Jan-13,1,0,0,Cambeba
+21,Jan-12,2,0,1,Cambeba
+21,May-13,6,1,0,Cambeba
+21,May-12,27,24,0,Cambeba
+21,Aug-13,5,4,0,Cambeba
+21,Aug-12,2,2,0,Cambeba
+21,Jun-13,5,1,1,Cambeba
+21,Jun-12,5,4,1,Cambeba
+21,Jul-13,12,5,1,Cambeba
+21,Jul-12,3,3,0,Cambeba
+21,Nov-13,0,0,0,Cambeba
+21,Nov-12,0,0,0,Cambeba
+21,Sep-12,1,1,0,Cambeba
+21,Sep-13,0,0,0,Cambeba
+21,Apr-13,6,0,0,Cambeba
+21,Apr-12,16,14,1,Cambeba
+21,Dec-12,1,1,0,Cambeba
+21,Dec-13,0,0,0,Cambeba
+21,Mar-12,3,3,0,Cambeba
+21,Mar-13,8,2,0,Cambeba
+21,Feb-13,2,0,0,Cambeba
+21,Feb-12,1,1,0,Cambeba
+22,Oct-12,0,0,0,Canindezinho
+22,Oct-13,0,0,0,Canindezinho
+22,Jan-13,8,6,0,Canindezinho
+22,Jan-12,12,9,0,Canindezinho
+22,May-13,153,70,8,Canindezinho
+22,May-12,85,71,4,Canindezinho
+22,Aug-13,42,7,0,Canindezinho
+22,Aug-12,12,12,0,Canindezinho
+22,Jun-13,108,41,6,Canindezinho
+22,Jun-12,40,35,0,Canindezinho
+22,Jul-13,85,17,4,Canindezinho
+22,Jul-12,11,11,0,Canindezinho
+22,Nov-13,0,0,0,Canindezinho
+22,Nov-12,4,4,0,Canindezinho
+22,Sep-12,0,0,0,Canindezinho
+22,Sep-13,9,0,0,Canindezinho
+22,Apr-13,116,53,0,Canindezinho
+22,Apr-12,51,38,5,Canindezinho
+22,Dec-12,1,0,0,Canindezinho
+22,Dec-13,0,0,0,Canindezinho
+22,Mar-12,43,38,1,Canindezinho
+22,Mar-13,75,8,0,Canindezinho
+22,Feb-13,45,11,1,Canindezinho
+22,Feb-12,16,13,2,Canindezinho
+23,Oct-12,0,0,0,Carlito Pamplona
+23,Oct-13,0,0,0,Carlito Pamplona
+23,Jan-13,1,1,0,Carlito Pamplona
+23,Jan-12,6,6,0,Carlito Pamplona
+23,May-13,5,0,1,Carlito Pamplona
+23,May-12,75,51,8,Carlito Pamplona
+23,Aug-13,9,4,2,Carlito Pamplona
+23,Aug-12,0,0,0,Carlito Pamplona
+23,Jun-13,13,5,4,Carlito Pamplona
+23,Jun-12,11,7,3,Carlito Pamplona
+23,Jul-13,7,2,2,Carlito Pamplona
+23,Jul-12,2,2,0,Carlito Pamplona
+23,Nov-13,0,0,0,Carlito Pamplona
+23,Nov-12,0,0,0,Carlito Pamplona
+23,Sep-12,2,1,0,Carlito Pamplona
+23,Sep-13,2,0,0,Carlito Pamplona
+23,Apr-13,6,4,0,Carlito Pamplona
+23,Apr-12,46,29,14,Carlito Pamplona
+23,Dec-12,0,0,0,Carlito Pamplona
+23,Dec-13,0,0,0,Carlito Pamplona
+23,Mar-12,34,26,7,Carlito Pamplona
+23,Mar-13,3,0,1,Carlito Pamplona
+23,Feb-13,0,0,0,Carlito Pamplona
+23,Feb-12,15,11,2,Carlito Pamplona
+24,Oct-12,1,0,0,Castelão
+24,Oct-13,0,0,0,Castelão
+24,Jan-13,3,2,0,Castelão
+24,Jan-12,0,0,0,Castelão
+24,May-13,12,6,1,Castelão
+24,May-12,104,92,10,Castelão
+24,Aug-13,5,3,1,Castelão
+24,Aug-12,4,3,0,Castelão
+24,Jun-13,13,8,1,Castelão
+24,Jun-12,28,23,1,Castelão
+24,Jul-13,17,14,2,Castelão
+24,Jul-12,13,9,2,Castelão
+24,Nov-13,0,0,0,Castelão
+24,Nov-12,1,1,0,Castelão
+24,Sep-12,2,2,0,Castelão
+24,Sep-13,0,0,0,Castelão
+24,Apr-13,10,5,1,Castelão
+24,Apr-12,32,25,6,Castelão
+24,Dec-12,1,1,0,Castelão
+24,Dec-13,0,0,0,Castelão
+24,Mar-12,12,10,1,Castelão
+24,Mar-13,9,3,1,Castelão
+24,Feb-13,5,2,0,Castelão
+24,Feb-12,2,2,0,Castelão
+25,Oct-12,1,1,0,Centro
+25,Oct-13,0,0,0,Centro
+25,Jan-13,7,1,1,Centro
+25,Jan-12,11,7,1,Centro
+25,May-13,22,8,3,Centro
+25,May-12,228,191,20,Centro
+25,Aug-13,17,5,1,Centro
+25,Aug-12,3,2,0,Centro
+25,Jun-13,14,4,4,Centro
+25,Jun-12,45,40,2,Centro
+25,Jul-13,13,5,2,Centro
+25,Jul-12,7,5,0,Centro
+25,Nov-13,0,0,0,Centro
+25,Nov-12,0,0,0,Centro
+25,Sep-12,1,0,0,Centro
+25,Sep-13,1,0,1,Centro
+25,Apr-13,19,6,0,Centro
+25,Apr-12,162,118,19,Centro
+25,Dec-12,2,1,0,Centro
+25,Dec-13,0,0,0,Centro
+25,Mar-12,39,31,5,Centro
+25,Mar-13,9,4,0,Centro
+25,Feb-13,5,2,0,Centro
+25,Feb-12,13,11,1,Centro
+26,Oct-12,0,0,0,Cidade 2000
+26,Oct-13,0,0,0,Cidade 2000
+26,Jan-13,2,1,0,Cidade 2000
+26,Jan-12,1,0,0,Cidade 2000
+26,May-13,7,5,0,Cidade 2000
+26,May-12,26,26,0,Cidade 2000
+26,Aug-13,11,2,2,Cidade 2000
+26,Aug-12,3,2,0,Cidade 2000
+26,Jun-13,5,0,2,Cidade 2000
+26,Jun-12,16,13,0,Cidade 2000
+26,Jul-13,5,1,2,Cidade 2000
+26,Jul-12,1,0,0,Cidade 2000
+26,Nov-13,0,0,0,Cidade 2000
+26,Nov-12,1,0,0,Cidade 2000
+26,Sep-12,1,0,0,Cidade 2000
+26,Sep-13,2,2,0,Cidade 2000
+26,Apr-13,17,12,0,Cidade 2000
+26,Apr-12,6,3,1,Cidade 2000
+26,Dec-12,0,0,0,Cidade 2000
+26,Dec-13,0,0,0,Cidade 2000
+26,Mar-12,3,3,0,Cidade 2000
+26,Mar-13,2,0,0,Cidade 2000
+26,Feb-13,1,0,0,Cidade 2000
+26,Feb-12,0,0,0,Cidade 2000
+27,Oct-12,1,1,0,Cidade dos Funcionários
+27,Oct-13,0,0,0,Cidade dos Funcionários
+27,Jan-13,4,2,0,Cidade dos Funcionários
+27,Jan-12,2,2,0,Cidade dos Funcionários
+27,May-13,12,4,1,Cidade dos Funcionários
+27,May-12,183,169,8,Cidade dos Funcionários
+27,Aug-13,11,2,4,Cidade dos Funcionários
+27,Aug-12,2,1,1,Cidade dos Funcionários
+27,Jun-13,12,1,0,Cidade dos Funcionários
+27,Jun-12,23,19,3,Cidade dos Funcionários
+27,Jul-13,20,7,6,Cidade dos Funcionários
+27,Jul-12,3,2,0,Cidade dos Funcionários
+27,Nov-13,0,0,0,Cidade dos Funcionários
+27,Nov-12,1,0,0,Cidade dos Funcionários
+27,Sep-12,1,1,0,Cidade dos Funcionários
+27,Sep-13,0,0,0,Cidade dos Funcionários
+27,Apr-13,8,4,0,Cidade dos Funcionários
+27,Apr-12,66,53,7,Cidade dos Funcionários
+27,Dec-12,2,1,0,Cidade dos Funcionários
+27,Dec-13,0,0,0,Cidade dos Funcionários
+27,Mar-12,18,16,2,Cidade dos Funcionários
+27,Mar-13,8,5,1,Cidade dos Funcionários
+27,Feb-13,7,0,0,Cidade dos Funcionários
+27,Feb-12,5,3,1,Cidade dos Funcionários
+28,Oct-12,0,0,0,Coaçu
+28,Oct-13,0,0,0,Coaçu
+28,Jan-13,0,0,0,Coaçu
+28,Jan-12,0,0,0,Coaçu
+28,May-13,1,0,0,Coaçu
+28,May-12,6,6,5,Coaçu
+28,Aug-13,0,0,0,Coaçu
+28,Aug-12,0,0,0,Coaçu
+28,Jun-13,5,1,1,Coaçu
+28,Jun-12,1,1,0,Coaçu
+28,Jul-13,1,1,0,Coaçu
+28,Jul-12,0,0,1,Coaçu
+28,Nov-13,0,0,0,Coaçu
+28,Nov-12,0,0,0,Coaçu
+28,Sep-12,0,0,0,Coaçu
+28,Sep-13,0,0,0,Coaçu
+28,Apr-13,2,0,0,Coaçu
+28,Apr-12,1,1,3,Coaçu
+28,Dec-12,0,0,0,Coaçu
+28,Dec-13,0,0,0,Coaçu
+28,Mar-12,1,1,0,Coaçu
+28,Mar-13,1,0,0,Coaçu
+28,Feb-13,0,0,0,Coaçu
+28,Feb-12,0,0,0,Coaçu
+29,Oct-12,0,0,0,Cocó
+29,Oct-13,0,0,0,Cocó
+29,Jan-13,0,0,0,Cocó
+29,Jan-12,1,1,0,Cocó
+29,May-13,4,1,2,Cocó
+29,May-12,26,21,4,Cocó
+29,Aug-13,11,5,2,Cocó
+29,Aug-12,1,1,0,Cocó
+29,Jun-13,4,2,0,Cocó
+29,Jun-12,5,3,1,Cocó
+29,Jul-13,10,1,2,Cocó
+29,Jul-12,1,1,0,Cocó
+29,Nov-13,0,0,0,Cocó
+29,Nov-12,0,0,0,Cocó
+29,Sep-12,0,0,0,Cocó
+29,Sep-13,0,0,0,Cocó
+29,Apr-13,6,1,1,Cocó
+29,Apr-12,6,4,2,Cocó
+29,Dec-12,0,0,0,Cocó
+29,Dec-13,0,0,0,Cocó
+29,Mar-12,7,5,1,Cocó
+29,Mar-13,2,0,0,Cocó
+29,Feb-13,1,0,0,Cocó
+29,Feb-12,1,0,0,Cocó
+30,Oct-12,0,0,0,Conjunto Ceará
+30,Oct-13,0,0,0,Conjunto Ceará
+30,Jan-13,5,1,1,Conjunto Ceará
+30,Jan-12,16,13,3,Conjunto Ceará
+30,May-13,18,7,3,Conjunto Ceará
+30,May-12,514,435,43,Conjunto Ceará
+30,Aug-13,21,4,4,Conjunto Ceará
+30,Aug-12,0,0,0,Conjunto Ceará
+30,Jun-13,18,2,4,Conjunto Ceará
+30,Jun-12,77,67,2,Conjunto Ceará
+30,Jul-13,14,3,6,Conjunto Ceará
+30,Jul-12,9,8,0,Conjunto Ceará
+30,Nov-13,0,0,0,Conjunto Ceará
+30,Nov-12,0,1,0,Conjunto Ceará
+30,Sep-12,0,0,0,Conjunto Ceará
+30,Sep-13,3,0,1,Conjunto Ceará
+30,Apr-13,20,8,1,Conjunto Ceará
+30,Apr-12,245,138,24,Conjunto Ceará
+30,Dec-12,3,2,0,Conjunto Ceará
+30,Dec-13,0,0,0,Conjunto Ceará
+30,Mar-12,106,86,5,Conjunto Ceará
+30,Mar-13,6,5,0,Conjunto Ceará
+30,Feb-13,6,3,0,Conjunto Ceará
+30,Feb-12,26,19,4,Conjunto Ceará
+31,Oct-12,0,0,0,Conjunto Esperança
+31,Oct-13,0,0,0,Conjunto Esperança
+31,Jan-13,3,1,0,Conjunto Esperança
+31,Jan-12,10,8,0,Conjunto Esperança
+31,May-13,21,8,1,Conjunto Esperança
+31,May-12,164,147,7,Conjunto Esperança
+31,Aug-13,26,4,0,Conjunto Esperança
+31,Aug-12,1,0,1,Conjunto Esperança
+31,Jun-13,56,17,9,Conjunto Esperança
+31,Jun-12,73,57,2,Conjunto Esperança
+31,Jul-13,49,7,12,Conjunto Esperança
+31,Jul-12,25,18,0,Conjunto Esperança
+31,Nov-13,0,0,0,Conjunto Esperança
+31,Nov-12,0,0,0,Conjunto Esperança
+31,Sep-12,4,2,0,Conjunto Esperança
+31,Sep-13,7,0,2,Conjunto Esperança
+31,Apr-13,25,6,1,Conjunto Esperança
+31,Apr-12,49,40,4,Conjunto Esperança
+31,Dec-12,0,0,0,Conjunto Esperança
+31,Dec-13,0,0,0,Conjunto Esperança
+31,Mar-12,17,15,1,Conjunto Esperança
+31,Mar-13,25,8,0,Conjunto Esperança
+31,Feb-13,13,5,0,Conjunto Esperança
+31,Feb-12,1,1,0,Conjunto Esperança
+32,Oct-12,2,2,0,Conjunto Palmeiras
+32,Oct-13,0,0,0,Conjunto Palmeiras
+32,Jan-13,5,2,0,Conjunto Palmeiras
+32,Jan-12,6,3,0,Conjunto Palmeiras
+32,May-13,32,5,1,Conjunto Palmeiras
+32,May-12,357,337,8,Conjunto Palmeiras
+32,Aug-13,39,20,3,Conjunto Palmeiras
+32,Aug-12,20,16,2,Conjunto Palmeiras
+32,Jun-13,28,11,2,Conjunto Palmeiras
+32,Jun-12,92,86,4,Conjunto Palmeiras
+32,Jul-13,30,15,3,Conjunto Palmeiras
+32,Jul-12,26,26,0,Conjunto Palmeiras
+32,Nov-13,0,0,0,Conjunto Palmeiras
+32,Nov-12,3,2,0,Conjunto Palmeiras
+32,Sep-12,6,6,0,Conjunto Palmeiras
+32,Sep-13,7,1,1,Conjunto Palmeiras
+32,Apr-13,41,15,0,Conjunto Palmeiras
+32,Apr-12,88,79,3,Conjunto Palmeiras
+32,Dec-12,11,7,0,Conjunto Palmeiras
+32,Dec-13,0,0,0,Conjunto Palmeiras
+32,Mar-12,28,23,1,Conjunto Palmeiras
+32,Mar-13,26,4,1,Conjunto Palmeiras
+32,Feb-13,17,6,0,Conjunto Palmeiras
+32,Feb-12,12,9,0,Conjunto Palmeiras
+33,Oct-12,0,0,0,Couto Fernandes
+33,Oct-13,0,0,0,Couto Fernandes
+33,Jan-13,1,0,0,Couto Fernandes
+33,Jan-12,3,3,0,Couto Fernandes
+33,May-13,2,0,0,Couto Fernandes
+33,May-12,41,35,3,Couto Fernandes
+33,Aug-13,1,1,0,Couto Fernandes
+33,Aug-12,1,1,0,Couto Fernandes
+33,Jun-13,4,2,0,Couto Fernandes
+33,Jun-12,9,8,1,Couto Fernandes
+33,Jul-13,3,2,0,Couto Fernandes
+33,Jul-12,3,2,0,Couto Fernandes
+33,Nov-13,0,0,0,Couto Fernandes
+33,Nov-12,0,0,0,Couto Fernandes
+33,Sep-12,0,0,0,Couto Fernandes
+33,Sep-13,0,0,0,Couto Fernandes
+33,Apr-13,11,7,0,Couto Fernandes
+33,Apr-12,13,12,1,Couto Fernandes
+33,Dec-12,0,0,0,Couto Fernandes
+33,Dec-13,0,0,0,Couto Fernandes
+33,Mar-12,6,5,0,Couto Fernandes
+33,Mar-13,3,0,0,Couto Fernandes
+33,Feb-13,2,0,1,Couto Fernandes
+33,Feb-12,2,2,0,Couto Fernandes
+34,Oct-12,0,0,0,Cristo Redentor
+34,Oct-13,0,0,0,Cristo Redentor
+34,Jan-13,2,2,0,Cristo Redentor
+34,Jan-12,23,12,8,Cristo Redentor
+34,May-13,6,1,2,Cristo Redentor
+34,May-12,112,79,17,Cristo Redentor
+34,Aug-13,17,4,7,Cristo Redentor
+34,Aug-12,0,0,0,Cristo Redentor
+34,Jun-13,18,4,8,Cristo Redentor
+34,Jun-12,11,8,1,Cristo Redentor
+34,Jul-13,16,7,4,Cristo Redentor
+34,Jul-12,4,3,0,Cristo Redentor
+34,Nov-13,0,0,0,Cristo Redentor
+34,Nov-12,0,0,0,Cristo Redentor
+34,Sep-12,0,0,0,Cristo Redentor
+34,Sep-13,4,0,0,Cristo Redentor
+34,Apr-13,3,2,0,Cristo Redentor
+34,Apr-12,48,41,3,Cristo Redentor
+34,Dec-12,0,0,0,Cristo Redentor
+34,Dec-13,0,0,0,Cristo Redentor
+34,Mar-12,30,14,9,Cristo Redentor
+34,Mar-13,5,1,2,Cristo Redentor
+34,Feb-13,2,1,0,Cristo Redentor
+34,Feb-12,24,13,8,Cristo Redentor
+35,Oct-12,3,3,0,Curió
+35,Oct-13,0,0,0,Curió
+35,Jan-13,3,0,0,Curió
+35,Jan-12,3,2,0,Curió
+35,May-13,24,14,1,Curió
+35,May-12,241,239,0,Curió
+35,Aug-13,2,0,0,Curió
+35,Aug-12,3,3,0,Curió
+35,Jun-13,32,21,0,Curió
+35,Jun-12,92,91,0,Curió
+35,Jul-13,4,0,0,Curió
+35,Jul-12,25,23,0,Curió
+35,Nov-13,0,0,0,Curió
+35,Nov-12,2,2,0,Curió
+35,Sep-12,2,2,0,Curió
+35,Sep-13,3,0,0,Curió
+35,Apr-13,73,54,1,Curió
+35,Apr-12,79,77,1,Curió
+35,Dec-12,1,0,0,Curió
+35,Dec-13,0,0,0,Curió
+35,Mar-12,21,20,0,Curió
+35,Mar-13,67,21,1,Curió
+35,Feb-13,13,7,1,Curió
+35,Feb-12,8,7,0,Curió
+36,Oct-12,0,0,0,Damas
+36,Oct-13,0,0,0,Damas
+36,Jan-13,7,1,0,Damas
+36,Jan-12,2,2,0,Damas
+36,May-13,5,1,2,Damas
+36,May-12,63,50,7,Damas
+36,Aug-13,5,2,0,Damas
+36,Aug-12,4,3,0,Damas
+36,Jun-13,9,3,1,Damas
+36,Jun-12,11,9,1,Damas
+36,Jul-13,15,8,0,Damas
+36,Jul-12,3,3,0,Damas
+36,Nov-13,0,0,0,Damas
+36,Nov-12,0,0,0,Damas
+36,Sep-12,1,1,0,Damas
+36,Sep-13,1,1,0,Damas
+36,Apr-13,7,3,0,Damas
+36,Apr-12,37,26,9,Damas
+36,Dec-12,1,0,0,Damas
+36,Dec-13,0,0,0,Damas
+36,Mar-12,15,14,1,Damas
+36,Mar-13,6,3,0,Damas
+36,Feb-13,3,1,1,Damas
+36,Feb-12,3,2,0,Damas
+37,Oct-12,0,0,0,Demócrito Rocha
+37,Oct-13,0,0,0,Demócrito Rocha
+37,Jan-13,3,3,0,Demócrito Rocha
+37,Jan-12,7,4,1,Demócrito Rocha
+37,May-13,17,12,2,Demócrito Rocha
+37,May-12,100,78,12,Demócrito Rocha
+37,Aug-13,21,11,5,Demócrito Rocha
+37,Aug-12,2,1,1,Demócrito Rocha
+37,Jun-13,8,4,2,Demócrito Rocha
+37,Jun-12,17,14,1,Demócrito Rocha
+37,Jul-13,19,12,1,Demócrito Rocha
+37,Jul-12,7,6,0,Demócrito Rocha
+37,Nov-13,0,0,0,Demócrito Rocha
+37,Nov-12,2,1,0,Demócrito Rocha
+37,Sep-12,2,1,0,Demócrito Rocha
+37,Sep-13,9,4,2,Demócrito Rocha
+37,Apr-13,10,6,0,Demócrito Rocha
+37,Apr-12,27,20,3,Demócrito Rocha
+37,Dec-12,3,1,1,Demócrito Rocha
+37,Dec-13,0,0,0,Demócrito Rocha
+37,Mar-12,17,16,1,Demócrito Rocha
+37,Mar-13,4,4,0,Demócrito Rocha
+37,Feb-13,3,3,0,Demócrito Rocha
+37,Feb-12,7,2,1,Demócrito Rocha
+38,Oct-12,0,0,0,Dendê
+38,Oct-13,0,0,0,Dendê
+38,Jan-13,0,0,0,Dendê
+38,Jan-12,0,0,0,Dendê
+38,May-13,0,0,0,Dendê
+38,May-12,0,0,5,Dendê
+38,Aug-13,0,0,0,Dendê
+38,Aug-12,0,0,0,Dendê
+38,Jun-13,0,0,0,Dendê
+38,Jun-12,0,0,0,Dendê
+38,Jul-13,0,0,0,Dendê
+38,Jul-12,0,0,1,Dendê
+38,Nov-13,0,0,0,Dendê
+38,Nov-12,0,0,0,Dendê
+38,Sep-12,0,0,0,Dendê
+38,Sep-13,0,0,0,Dendê
+38,Apr-13,0,0,0,Dendê
+38,Apr-12,0,0,3,Dendê
+38,Dec-12,0,0,0,Dendê
+38,Dec-13,0,0,0,Dendê
+38,Mar-12,0,0,0,Dendê
+38,Mar-13,0,0,0,Dendê
+38,Feb-13,0,0,0,Dendê
+38,Feb-12,0,0,0,Dendê
+39,Oct-12,0,0,0,Dias Macedo
+39,Oct-13,0,0,0,Dias Macedo
+39,Jan-13,1,1,0,Dias Macedo
+39,Jan-12,1,1,0,Dias Macedo
+39,May-13,8,4,0,Dias Macedo
+39,May-12,178,161,5,Dias Macedo
+39,Aug-13,3,0,0,Dias Macedo
+39,Aug-12,5,3,0,Dias Macedo
+39,Jun-13,9,2,4,Dias Macedo
+39,Jun-12,21,18,0,Dias Macedo
+39,Jul-13,11,4,4,Dias Macedo
+39,Jul-12,13,10,1,Dias Macedo
+39,Nov-13,0,0,0,Dias Macedo
+39,Nov-12,2,0,0,Dias Macedo
+39,Sep-12,0,0,0,Dias Macedo
+39,Sep-13,5,1,0,Dias Macedo
+39,Apr-13,11,4,1,Dias Macedo
+39,Apr-12,31,24,3,Dias Macedo
+39,Dec-12,2,2,0,Dias Macedo
+39,Dec-13,0,0,0,Dias Macedo
+39,Mar-12,13,10,0,Dias Macedo
+39,Mar-13,8,0,0,Dias Macedo
+39,Feb-13,6,2,0,Dias Macedo
+39,Feb-12,4,2,0,Dias Macedo
+40,Oct-12,0,0,0,Dionísio Torres
+40,Oct-13,0,0,0,Dionísio Torres
+40,Jan-13,5,0,1,Dionísio Torres
+40,Jan-12,3,3,0,Dionísio Torres
+40,May-13,5,0,4,Dionísio Torres
+40,May-12,60,38,7,Dionísio Torres
+40,Aug-13,4,1,2,Dionísio Torres
+40,Aug-12,0,0,0,Dionísio Torres
+40,Jun-13,2,0,0,Dionísio Torres
+40,Jun-12,12,5,4,Dionísio Torres
+40,Jul-13,10,2,1,Dionísio Torres
+40,Jul-12,4,2,1,Dionísio Torres
+40,Nov-13,0,0,0,Dionísio Torres
+40,Nov-12,0,0,0,Dionísio Torres
+40,Sep-12,0,0,0,Dionísio Torres
+40,Sep-13,0,0,0,Dionísio Torres
+40,Apr-13,6,2,0,Dionísio Torres
+40,Apr-12,29,18,4,Dionísio Torres
+40,Dec-12,0,0,0,Dionísio Torres
+40,Dec-13,0,0,0,Dionísio Torres
+40,Mar-12,15,8,4,Dionísio Torres
+40,Mar-13,4,2,0,Dionísio Torres
+40,Feb-13,3,2,0,Dionísio Torres
+40,Feb-12,4,1,2,Dionísio Torres
+41,Oct-12,0,0,0,Dom Lustosa
+41,Oct-13,0,0,0,Dom Lustosa
+41,Jan-13,0,0,0,Dom Lustosa
+41,Jan-12,4,2,0,Dom Lustosa
+41,May-13,3,1,1,Dom Lustosa
+41,May-12,20,10,5,Dom Lustosa
+41,Aug-13,6,3,0,Dom Lustosa
+41,Aug-12,0,0,0,Dom Lustosa
+41,Jun-13,0,0,0,Dom Lustosa
+41,Jun-12,1,1,0,Dom Lustosa
+41,Jul-13,1,0,0,Dom Lustosa
+41,Jul-12,0,0,0,Dom Lustosa
+41,Nov-13,0,0,0,Dom Lustosa
+41,Nov-12,1,1,0,Dom Lustosa
+41,Sep-12,0,0,0,Dom Lustosa
+41,Sep-13,1,0,0,Dom Lustosa
+41,Apr-13,3,1,0,Dom Lustosa
+41,Apr-12,12,7,2,Dom Lustosa
+41,Dec-12,0,0,0,Dom Lustosa
+41,Dec-13,0,0,0,Dom Lustosa
+41,Mar-12,9,4,2,Dom Lustosa
+41,Mar-13,1,1,0,Dom Lustosa
+41,Feb-13,0,0,0,Dom Lustosa
+41,Feb-12,3,0,0,Dom Lustosa
+42,Oct-12,0,0,0,Dunas
+42,Oct-13,0,0,0,Dunas
+42,Jan-13,0,0,0,Dunas
+42,Jan-12,0,0,0,Dunas
+42,May-13,0,0,0,Dunas
+42,May-12,2,2,5,Dunas
+42,Aug-13,0,0,0,Dunas
+42,Aug-12,2,2,0,Dunas
+42,Jun-13,1,0,1,Dunas
+42,Jun-12,0,0,0,Dunas
+42,Jul-13,0,0,0,Dunas
+42,Jul-12,2,2,1,Dunas
+42,Nov-13,0,0,0,Dunas
+42,Nov-12,0,0,0,Dunas
+42,Sep-12,0,0,0,Dunas
+42,Sep-13,0,0,0,Dunas
+42,Apr-13,0,0,0,Dunas
+42,Apr-12,0,0,3,Dunas
+42,Dec-12,0,0,0,Dunas
+42,Dec-13,0,0,0,Dunas
+42,Mar-12,1,1,0,Dunas
+42,Mar-13,0,0,0,Dunas
+42,Feb-13,0,0,0,Dunas
+42,Feb-12,1,1,0,Dunas
+43,Oct-12,1,1,0,Edson Queiroz
+43,Oct-13,0,0,0,Edson Queiroz
+43,Jan-13,3,1,1,Edson Queiroz
+43,Jan-12,5,5,0,Edson Queiroz
+43,May-13,23,4,2,Edson Queiroz
+43,May-12,493,466,11,Edson Queiroz
+43,Aug-13,19,5,1,Edson Queiroz
+43,Aug-12,6,6,0,Edson Queiroz
+43,Jun-13,22,4,5,Edson Queiroz
+43,Jun-12,54,46,4,Edson Queiroz
+43,Jul-13,36,9,8,Edson Queiroz
+43,Jul-12,17,14,0,Edson Queiroz
+43,Nov-13,0,0,0,Edson Queiroz
+43,Nov-12,0,0,0,Edson Queiroz
+43,Sep-12,3,3,0,Edson Queiroz
+43,Sep-13,5,1,1,Edson Queiroz
+43,Apr-13,24,14,0,Edson Queiroz
+43,Apr-12,121,99,10,Edson Queiroz
+43,Dec-12,5,1,0,Edson Queiroz
+43,Dec-13,0,0,0,Edson Queiroz
+43,Mar-12,34,28,3,Edson Queiroz
+43,Mar-13,24,8,1,Edson Queiroz
+43,Feb-13,12,6,0,Edson Queiroz
+43,Feb-12,6,2,2,Edson Queiroz
+44,Oct-12,3,1,1,Ellery
+44,Oct-13,0,0,0,Ellery
+44,Jan-13,1,0,0,Ellery
+44,Jan-12,6,4,1,Ellery
+44,May-13,1,1,0,Ellery
+44,May-12,44,33,5,Ellery
+44,Aug-13,3,2,1,Ellery
+44,Aug-12,0,0,0,Ellery
+44,Jun-13,4,1,0,Ellery
+44,Jun-12,7,6,0,Ellery
+44,Jul-13,3,2,0,Ellery
+44,Jul-12,2,1,0,Ellery
+44,Nov-13,0,0,0,Ellery
+44,Nov-12,0,0,0,Ellery
+44,Sep-12,0,0,0,Ellery
+44,Sep-13,2,0,0,Ellery
+44,Apr-13,2,2,0,Ellery
+44,Apr-12,80,44,22,Ellery
+44,Dec-12,0,0,0,Ellery
+44,Dec-13,0,0,0,Ellery
+44,Mar-12,49,24,10,Ellery
+44,Mar-13,5,1,1,Ellery
+44,Feb-13,2,0,0,Ellery
+44,Feb-12,20,15,2,Ellery
+45,Oct-12,0,0,0,Luciano Cavalcante
+45,Oct-13,0,0,0,Luciano Cavalcante
+45,Jan-13,0,8,0,Luciano Cavalcante
+45,Jan-12,4,3,0,Luciano Cavalcante
+45,May-13,4,7,1,Luciano Cavalcante
+45,May-12,228,218,3,Luciano Cavalcante
+45,Aug-13,4,10,2,Luciano Cavalcante
+45,Aug-12,1,0,1,Luciano Cavalcante
+45,Jun-13,3,9,2,Luciano Cavalcante
+45,Jun-12,46,45,0,Luciano Cavalcante
+45,Jul-13,7,20,3,Luciano Cavalcante
+45,Jul-12,3,2,0,Luciano Cavalcante
+45,Nov-13,0,0,0,Luciano Cavalcante
+45,Nov-12,0,0,0,Luciano Cavalcante
+45,Sep-12,1,1,0,Luciano Cavalcante
+45,Sep-13,2,0,0,Luciano Cavalcante
+45,Apr-13,2,2,0,Luciano Cavalcante
+45,Apr-12,60,55,2,Luciano Cavalcante
+45,Dec-12,0,0,0,Luciano Cavalcante
+45,Dec-13,0,0,0,Luciano Cavalcante
+45,Mar-12,10,8,1,Luciano Cavalcante
+45,Mar-13,3,2,0,Luciano Cavalcante
+45,Feb-13,1,5,1,Luciano Cavalcante
+45,Feb-12,4,4,0,Luciano Cavalcante
+46,Oct-12,0,0,0,Farias Brito
+46,Oct-13,0,0,0,Farias Brito
+46,Jan-13,8,0,0,Farias Brito
+46,Jan-12,0,0,0,Farias Brito
+46,May-13,12,3,0,Farias Brito
+46,May-12,66,41,11,Farias Brito
+46,Aug-13,21,2,1,Farias Brito
+46,Aug-12,0,0,0,Farias Brito
+46,Jun-13,28,1,0,Farias Brito
+46,Jun-12,2,1,1,Farias Brito
+46,Jul-13,54,4,3,Farias Brito
+46,Jul-12,0,0,0,Farias Brito
+46,Nov-13,0,0,0,Farias Brito
+46,Nov-12,0,0,0,Farias Brito
+46,Sep-12,0,0,0,Farias Brito
+46,Sep-13,1,0,0,Farias Brito
+46,Apr-13,5,0,0,Farias Brito
+46,Apr-12,54,32,9,Farias Brito
+46,Dec-12,0,0,0,Farias Brito
+46,Dec-13,0,0,0,Farias Brito
+46,Mar-12,14,12,1,Farias Brito
+46,Mar-13,10,2,0,Farias Brito
+46,Feb-13,9,0,0,Farias Brito
+46,Feb-12,4,3,0,Farias Brito
+47,Oct-12,2,0,0,Fátima
+47,Oct-13,0,0,0,Fátima
+47,Jan-13,4,2,0,Fátima
+47,Jan-12,6,4,0,Fátima
+47,May-13,10,1,3,Fátima
+47,May-12,100,67,15,Fátima
+47,Aug-13,15,4,3,Fátima
+47,Aug-12,5,3,0,Fátima
+47,Jun-13,13,2,5,Fátima
+47,Jun-12,24,17,2,Fátima
+47,Jul-13,13,2,0,Fátima
+47,Jul-12,6,4,0,Fátima
+47,Nov-13,0,0,0,Fátima
+47,Nov-12,1,0,0,Fátima
+47,Sep-12,1,1,0,Fátima
+47,Sep-13,2,0,0,Fátima
+47,Apr-13,10,3,0,Fátima
+47,Apr-12,56,40,9,Fátima
+47,Dec-12,4,2,0,Fátima
+47,Dec-13,0,0,0,Fátima
+47,Mar-12,16,8,5,Fátima
+47,Mar-13,4,1,1,Fátima
+47,Feb-13,6,2,0,Fátima
+47,Feb-12,8,3,3,Fátima
+48,Oct-12,0,0,0,Floresta
+48,Oct-13,0,0,0,Floresta
+48,Jan-13,0,0,0,Floresta
+48,Jan-12,1,0,0,Floresta
+48,May-13,3,0,2,Floresta
+48,May-12,11,4,5,Floresta
+48,Aug-13,2,0,1,Floresta
+48,Aug-12,0,0,0,Floresta
+48,Jun-13,2,0,0,Floresta
+48,Jun-12,0,0,0,Floresta
+48,Jul-13,2,0,0,Floresta
+48,Jul-12,0,0,0,Floresta
+48,Nov-13,0,0,0,Floresta
+48,Nov-12,0,0,0,Floresta
+48,Sep-12,0,0,0,Floresta
+48,Sep-13,3,0,0,Floresta
+48,Apr-13,1,0,0,Floresta
+48,Apr-12,6,2,4,Floresta
+48,Dec-12,0,0,0,Floresta
+48,Dec-13,0,0,0,Floresta
+48,Mar-12,7,1,4,Floresta
+48,Mar-13,1,0,0,Floresta
+48,Feb-13,1,1,0,Floresta
+48,Feb-12,2,1,1,Floresta
+49,Oct-12,0,0,0,Genibaú
+49,Oct-13,0,0,0,Genibaú
+49,Jan-13,1,0,1,Genibaú
+49,Jan-12,37,27,5,Genibaú
+49,May-13,27,18,3,Genibaú
+49,May-12,319,282,19,Genibaú
+49,Aug-13,29,9,2,Genibaú
+49,Aug-12,3,2,0,Genibaú
+49,Jun-13,21,11,5,Genibaú
+49,Jun-12,74,72,0,Genibaú
+49,Jul-13,15,14,0,Genibaú
+49,Jul-12,11,11,0,Genibaú
+49,Nov-13,0,0,0,Genibaú
+49,Nov-12,0,0,0,Genibaú
+49,Sep-12,1,1,0,Genibaú
+49,Sep-13,9,1,0,Genibaú
+49,Apr-13,32,13,5,Genibaú
+49,Apr-12,85,59,5,Genibaú
+49,Dec-12,0,0,0,Genibaú
+49,Dec-13,0,0,0,Genibaú
+49,Mar-12,59,49,3,Genibaú
+49,Mar-13,5,2,0,Genibaú
+49,Feb-13,1,0,0,Genibaú
+49,Feb-12,19,13,5,Genibaú
+50,Oct-12,0,0,0,Gentilândia
+50,Oct-13,0,0,0,Gentilândia
+50,Jan-13,0,0,0,Gentilândia
+50,Jan-12,0,0,0,Gentilândia
+50,May-13,0,0,0,Gentilândia
+50,May-12,0,0,0,Gentilândia
+50,Aug-13,0,0,0,Gentilândia
+50,Aug-12,0,0,0,Gentilândia
+50,Jun-13,0,0,0,Gentilândia
+50,Jun-12,0,0,0,Gentilândia
+50,Jul-13,0,0,0,Gentilândia
+50,Jul-12,0,0,0,Gentilândia
+50,Nov-13,0,0,0,Gentilândia
+50,Nov-12,0,0,0,Gentilândia
+50,Sep-12,0,0,0,Gentilândia
+50,Sep-13,0,0,0,Gentilândia
+50,Apr-13,0,0,0,Gentilândia
+50,Apr-12,0,0,0,Gentilândia
+50,Dec-12,0,0,0,Gentilândia
+50,Dec-13,0,0,0,Gentilândia
+50,Mar-12,0,0,0,Gentilândia
+50,Mar-13,0,0,0,Gentilândia
+50,Feb-13,0,0,0,Gentilândia
+50,Feb-12,0,0,0,Gentilândia
+51,Oct-12,2,0,0,Granja Lisboa
+51,Oct-13,0,0,0,Granja Lisboa
+51,Jan-13,3,1,0,Granja Lisboa
+51,Jan-12,5,4,0,Granja Lisboa
+51,May-13,21,2,0,Granja Lisboa
+51,May-12,62,48,6,Granja Lisboa
+51,Aug-13,43,7,2,Granja Lisboa
+51,Aug-12,1,1,0,Granja Lisboa
+51,Jun-13,33,8,1,Granja Lisboa
+51,Jun-12,14,13,0,Granja Lisboa
+51,Jul-13,36,8,4,Granja Lisboa
+51,Jul-12,2,1,0,Granja Lisboa
+51,Nov-13,0,0,0,Granja Lisboa
+51,Nov-12,0,0,0,Granja Lisboa
+51,Sep-12,0,0,0,Granja Lisboa
+51,Sep-13,8,1,0,Granja Lisboa
+51,Apr-13,34,5,1,Granja Lisboa
+51,Apr-12,49,24,7,Granja Lisboa
+51,Dec-12,1,1,0,Granja Lisboa
+51,Dec-13,0,0,0,Granja Lisboa
+51,Mar-12,25,20,1,Granja Lisboa
+51,Mar-13,19,2,0,Granja Lisboa
+51,Feb-13,9,2,0,Granja Lisboa
+51,Feb-12,14,10,1,Granja Lisboa
+52,Oct-12,2,1,1,Granja Portugal
+52,Oct-13,0,0,0,Granja Portugal
+52,Jan-13,1,2,0,Granja Portugal
+52,Jan-12,10,9,1,Granja Portugal
+52,May-13,4,9,4,Granja Portugal
+52,May-12,202,157,21,Granja Portugal
+52,Aug-13,4,12,4,Granja Portugal
+52,Aug-12,7,6,1,Granja Portugal
+52,Jun-13,8,15,7,Granja Portugal
+52,Jun-12,49,41,5,Granja Portugal
+52,Jul-13,1,13,7,Granja Portugal
+52,Jul-12,15,12,0,Granja Portugal
+52,Nov-13,0,0,0,Granja Portugal
+52,Nov-12,1,1,0,Granja Portugal
+52,Sep-12,2,2,0,Granja Portugal
+52,Sep-13,1,2,1,Granja Portugal
+52,Apr-13,4,19,2,Granja Portugal
+52,Apr-12,78,45,8,Granja Portugal
+52,Dec-12,5,4,0,Granja Portugal
+52,Dec-13,0,0,0,Granja Portugal
+52,Mar-12,56,49,1,Granja Portugal
+52,Mar-13,6,6,1,Granja Portugal
+52,Feb-13,1,3,2,Granja Portugal
+52,Feb-12,18,17,0,Granja Portugal
+53,Oct-12,1,1,0,Guajeru
+53,Oct-13,0,0,0,Guajeru
+53,Jan-13,0,0,0,Guajeru
+53,Jan-12,1,1,0,Guajeru
+53,May-13,1,1,1,Guajeru
+53,May-12,54,49,3,Guajeru
+53,Aug-13,1,1,1,Guajeru
+53,Aug-12,0,0,0,Guajeru
+53,Jun-13,0,3,0,Guajeru
+53,Jun-12,7,7,0,Guajeru
+53,Jul-13,2,0,0,Guajeru
+53,Jul-12,0,0,0,Guajeru
+53,Nov-13,0,0,0,Guajeru
+53,Nov-12,0,0,0,Guajeru
+53,Sep-12,1,1,0,Guajeru
+53,Sep-13,0,0,0,Guajeru
+53,Apr-13,0,1,0,Guajeru
+53,Apr-12,20,19,1,Guajeru
+53,Dec-12,1,1,0,Guajeru
+53,Dec-13,0,0,0,Guajeru
+53,Mar-12,5,5,0,Guajeru
+53,Mar-13,1,1,0,Guajeru
+53,Feb-13,0,0,0,Guajeru
+53,Feb-12,3,3,0,Guajeru
+54,Oct-12,0,0,2,Guararapes
+54,Oct-13,0,0,0,Guararapes
+54,Jan-13,7,0,0,Guararapes
+54,Jan-12,0,0,4,Guararapes
+54,May-13,27,0,1,Guararapes
+54,May-12,5,5,32,Guararapes
+54,Aug-13,33,0,0,Guararapes
+54,Aug-12,0,0,0,Guararapes
+54,Jun-13,23,0,0,Guararapes
+54,Jun-12,0,0,0,Guararapes
+54,Jul-13,17,0,0,Guararapes
+54,Jul-12,0,0,0,Guararapes
+54,Nov-13,0,0,0,Guararapes
+54,Nov-12,0,0,0,Guararapes
+54,Sep-12,0,0,0,Guararapes
+54,Sep-13,14,0,0,Guararapes
+54,Apr-13,25,0,0,Guararapes
+54,Apr-12,0,0,17,Guararapes
+54,Dec-12,0,0,0,Guararapes
+54,Dec-13,0,0,0,Guararapes
+54,Mar-12,2,2,14,Guararapes
+54,Mar-13,10,0,0,Guararapes
+54,Feb-13,7,0,0,Guararapes
+54,Feb-12,0,0,7,Guararapes
+55,Oct-12,4,1,0,Henrique Jorge
+55,Oct-13,0,0,0,Henrique Jorge
+55,Jan-13,15,3,2,Henrique Jorge
+55,Jan-12,25,17,1,Henrique Jorge
+55,May-13,35,13,0,Henrique Jorge
+55,May-12,238,187,51,Henrique Jorge
+55,Aug-13,55,12,2,Henrique Jorge
+55,Aug-12,5,4,0,Henrique Jorge
+55,Jun-13,40,10,3,Henrique Jorge
+55,Jun-12,28,24,6,Henrique Jorge
+55,Jul-13,43,9,2,Henrique Jorge
+55,Jul-12,5,5,3,Henrique Jorge
+55,Nov-13,0,0,0,Henrique Jorge
+55,Nov-12,1,1,0,Henrique Jorge
+55,Sep-12,2,2,0,Henrique Jorge
+55,Sep-13,17,2,0,Henrique Jorge
+55,Apr-13,53,14,1,Henrique Jorge
+55,Apr-12,113,78,35,Henrique Jorge
+55,Dec-12,0,0,1,Henrique Jorge
+55,Dec-13,0,0,0,Henrique Jorge
+55,Mar-12,94,71,7,Henrique Jorge
+55,Mar-13,36,4,1,Henrique Jorge
+55,Feb-13,26,3,0,Henrique Jorge
+55,Feb-12,35,26,7,Henrique Jorge
+56,Oct-12,2,1,0,Itaoca
+56,Oct-13,0,0,0,Itaoca
+56,Jan-13,2,5,0,Itaoca
+56,Jan-12,1,1,0,Itaoca
+56,May-13,3,9,2,Itaoca
+56,May-12,118,79,28,Itaoca
+56,Aug-13,9,8,1,Itaoca
+56,Aug-12,0,0,0,Itaoca
+56,Jun-13,1,13,0,Itaoca
+56,Jun-12,7,5,2,Itaoca
+56,Jul-13,3,11,2,Itaoca
+56,Jul-12,2,2,0,Itaoca
+56,Nov-13,0,0,0,Itaoca
+56,Nov-12,0,0,0,Itaoca
+56,Sep-12,1,0,0,Itaoca
+56,Sep-13,3,5,0,Itaoca
+56,Apr-13,7,25,0,Itaoca
+56,Apr-12,62,46,9,Itaoca
+56,Dec-12,0,0,0,Itaoca
+56,Dec-13,0,0,0,Itaoca
+56,Mar-12,18,12,3,Itaoca
+56,Mar-13,7,9,0,Itaoca
+56,Feb-13,2,5,0,Itaoca
+56,Feb-12,1,1,0,Itaoca
+57,Oct-12,4,0,0,Itaperi
+57,Oct-13,0,0,0,Itaperi
+57,Jan-13,5,2,0,Itaperi
+57,Jan-12,8,5,2,Itaperi
+57,May-13,19,0,3,Itaperi
+57,May-12,298,245,30,Itaperi
+57,Aug-13,29,5,9,Itaperi
+57,Aug-12,18,7,0,Itaperi
+57,Jun-13,39,1,18,Itaperi
+57,Jun-12,106,59,12,Itaperi
+57,Jul-13,42,1,15,Itaperi
+57,Jul-12,28,18,3,Itaperi
+57,Nov-13,0,0,0,Itaperi
+57,Nov-12,4,2,1,Itaperi
+57,Sep-12,10,5,0,Itaperi
+57,Sep-13,11,0,3,Itaperi
+57,Apr-13,30,3,5,Itaperi
+57,Apr-12,60,52,4,Itaperi
+57,Dec-12,0,0,0,Itaperi
+57,Dec-13,0,0,0,Itaperi
+57,Mar-12,20,13,2,Itaperi
+57,Mar-13,35,2,1,Itaperi
+57,Feb-13,6,2,1,Itaperi
+57,Feb-12,6,2,0,Itaperi
+58,Oct-12,0,0,0,Jacarecanga
+58,Oct-13,0,0,0,Jacarecanga
+58,Jan-13,1,1,0,Jacarecanga
+58,Jan-12,11,3,6,Jacarecanga
+58,May-13,18,3,6,Jacarecanga
+58,May-12,229,69,49,Jacarecanga
+58,Aug-13,15,7,2,Jacarecanga
+58,Aug-12,2,2,0,Jacarecanga
+58,Jun-13,12,2,4,Jacarecanga
+58,Jun-12,18,11,3,Jacarecanga
+58,Jul-13,16,9,9,Jacarecanga
+58,Jul-12,2,2,0,Jacarecanga
+58,Nov-13,0,0,0,Jacarecanga
+58,Nov-12,0,0,0,Jacarecanga
+58,Sep-12,0,0,0,Jacarecanga
+58,Sep-13,4,2,1,Jacarecanga
+58,Apr-13,13,4,0,Jacarecanga
+58,Apr-12,48,23,9,Jacarecanga
+58,Dec-12,1,1,0,Jacarecanga
+58,Dec-13,0,0,0,Jacarecanga
+58,Mar-12,18,10,4,Jacarecanga
+58,Mar-13,10,5,0,Jacarecanga
+58,Feb-13,3,1,0,Jacarecanga
+58,Feb-12,13,9,2,Jacarecanga
+59,Oct-12,6,6,0,Jangurussu
+59,Oct-13,0,0,0,Jangurussu
+59,Jan-13,10,0,0,Jangurussu
+59,Jan-12,8,5,1,Jangurussu
+59,May-13,66,5,7,Jangurussu
+59,May-12,652,613,17,Jangurussu
+59,Aug-13,41,4,6,Jangurussu
+59,Aug-12,28,27,1,Jangurussu
+59,Jun-13,74,4,3,Jangurussu
+59,Jun-12,127,119,1,Jangurussu
+59,Jul-13,58,3,4,Jangurussu
+59,Jul-12,61,55,1,Jangurussu
+59,Nov-13,0,0,0,Jangurussu
+59,Nov-12,5,3,0,Jangurussu
+59,Sep-12,12,11,0,Jangurussu
+59,Sep-13,9,0,0,Jangurussu
+59,Apr-13,73,4,3,Jangurussu
+59,Apr-12,275,257,5,Jangurussu
+59,Dec-12,15,13,0,Jangurussu
+59,Dec-13,0,0,0,Jangurussu
+59,Mar-12,61,54,2,Jangurussu
+59,Mar-13,64,3,1,Jangurussu
+59,Feb-13,15,0,0,Jangurussu
+59,Feb-12,19,9,5,Jangurussu
+60,Oct-12,0,0,0,Jardim América
+60,Oct-13,0,0,0,Jardim América
+60,Jan-13,2,7,0,Jardim América
+60,Jan-12,2,1,0,Jardim América
+60,May-13,8,23,0,Jardim América
+60,May-12,186,152,18,Jardim América
+60,Aug-13,7,18,0,Jardim América
+60,Aug-12,0,0,0,Jardim América
+60,Jun-13,3,42,1,Jardim América
+60,Jun-12,14,13,0,Jardim América
+60,Jul-13,10,40,1,Jardim América
+60,Jul-12,3,2,1,Jardim América
+60,Nov-13,0,0,0,Jardim América
+60,Nov-12,1,0,0,Jardim América
+60,Sep-12,1,0,0,Jardim América
+60,Sep-13,2,2,0,Jardim América
+60,Apr-13,8,15,3,Jardim América
+60,Apr-12,66,49,5,Jardim América
+60,Dec-12,3,1,0,Jardim América
+60,Dec-13,0,0,0,Jardim América
+60,Mar-12,21,18,3,Jardim América
+60,Mar-13,6,10,0,Jardim América
+60,Feb-13,3,4,0,Jardim América
+60,Feb-12,6,4,1,Jardim América
+61,Oct-12,0,0,0,Jardim Cearense
+61,Oct-13,0,0,0,Jardim Cearense
+61,Jan-13,0,1,0,Jardim Cearense
+61,Jan-12,0,0,0,Jardim Cearense
+61,May-13,0,5,0,Jardim Cearense
+61,May-12,11,11,0,Jardim Cearense
+61,Aug-13,0,4,0,Jardim Cearense
+61,Aug-12,0,0,0,Jardim Cearense
+61,Jun-13,0,2,0,Jardim Cearense
+61,Jun-12,0,0,0,Jardim Cearense
+61,Jul-13,1,3,1,Jardim Cearense
+61,Jul-12,0,0,0,Jardim Cearense
+61,Nov-13,0,0,0,Jardim Cearense
+61,Nov-12,0,0,0,Jardim Cearense
+61,Sep-12,0,0,0,Jardim Cearense
+61,Sep-13,0,0,0,Jardim Cearense
+61,Apr-13,1,0,0,Jardim Cearense
+61,Apr-12,2,2,0,Jardim Cearense
+61,Dec-12,1,1,0,Jardim Cearense
+61,Dec-13,0,0,0,Jardim Cearense
+61,Mar-12,2,1,1,Jardim Cearense
+61,Mar-13,0,5,0,Jardim Cearense
+61,Feb-13,0,1,0,Jardim Cearense
+61,Feb-12,0,0,0,Jardim Cearense
+62,Oct-12,7,7,0,Jardim das Oliveiras
+62,Oct-13,0,0,0,Jardim das Oliveiras
+62,Jan-13,24,18,0,Jardim das Oliveiras
+62,Jan-12,9,7,0,Jardim das Oliveiras
+62,May-13,33,19,2,Jardim das Oliveiras
+62,May-12,417,398,7,Jardim das Oliveiras
+62,Aug-13,35,27,1,Jardim das Oliveiras
+62,Aug-12,5,4,1,Jardim das Oliveiras
+62,Jun-13,32,24,0,Jardim das Oliveiras
+62,Jun-12,124,119,0,Jardim das Oliveiras
+62,Jul-13,62,53,0,Jardim das Oliveiras
+62,Jul-12,25,23,0,Jardim das Oliveiras
+62,Nov-13,0,0,0,Jardim das Oliveiras
+62,Nov-12,5,3,0,Jardim das Oliveiras
+62,Sep-12,2,2,0,Jardim das Oliveiras
+62,Sep-13,2,0,1,Jardim das Oliveiras
+62,Apr-13,42,12,1,Jardim das Oliveiras
+62,Apr-12,129,121,1,Jardim das Oliveiras
+62,Dec-12,4,2,0,Jardim das Oliveiras
+62,Dec-13,0,0,0,Jardim das Oliveiras
+62,Mar-12,79,76,2,Jardim das Oliveiras
+62,Mar-13,15,9,0,Jardim das Oliveiras
+62,Feb-13,17,8,0,Jardim das Oliveiras
+62,Feb-12,8,8,0,Jardim das Oliveiras
+63,Oct-12,0,0,0,Jardim Guanabara
+63,Oct-13,0,0,0,Jardim Guanabara
+63,Jan-13,2,2,0,Jardim Guanabara
+63,Jan-12,4,2,0,Jardim Guanabara
+63,May-13,14,10,1,Jardim Guanabara
+63,May-12,407,376,12,Jardim Guanabara
+63,Aug-13,5,4,0,Jardim Guanabara
+63,Aug-12,1,1,0,Jardim Guanabara
+63,Jun-13,12,6,2,Jardim Guanabara
+63,Jun-12,49,49,0,Jardim Guanabara
+63,Jul-13,9,5,4,Jardim Guanabara
+63,Jul-12,7,5,0,Jardim Guanabara
+63,Nov-13,0,0,0,Jardim Guanabara
+63,Nov-12,1,1,0,Jardim Guanabara
+63,Sep-12,0,0,0,Jardim Guanabara
+63,Sep-13,5,0,0,Jardim Guanabara
+63,Apr-13,9,6,2,Jardim Guanabara
+63,Apr-12,137,116,7,Jardim Guanabara
+63,Dec-12,0,0,0,Jardim Guanabara
+63,Dec-13,0,0,0,Jardim Guanabara
+63,Mar-12,48,39,5,Jardim Guanabara
+63,Mar-13,2,1,0,Jardim Guanabara
+63,Feb-13,4,2,0,Jardim Guanabara
+63,Feb-12,7,4,2,Jardim Guanabara
+64,Oct-12,1,0,1,Jardim Iracema
+64,Oct-13,0,0,0,Jardim Iracema
+64,Jan-13,1,1,0,Jardim Iracema
+64,Jan-12,6,5,0,Jardim Iracema
+64,May-13,23,20,0,Jardim Iracema
+64,May-12,262,184,24,Jardim Iracema
+64,Aug-13,8,3,0,Jardim Iracema
+64,Aug-12,2,1,0,Jardim Iracema
+64,Jun-13,14,9,1,Jardim Iracema
+64,Jun-12,39,33,0,Jardim Iracema
+64,Jul-13,12,7,1,Jardim Iracema
+64,Jul-12,2,1,0,Jardim Iracema
+64,Nov-13,0,0,0,Jardim Iracema
+64,Nov-12,1,1,0,Jardim Iracema
+64,Sep-12,2,0,1,Jardim Iracema
+64,Sep-13,10,1,0,Jardim Iracema
+64,Apr-13,15,10,0,Jardim Iracema
+64,Apr-12,191,133,28,Jardim Iracema
+64,Dec-12,1,1,0,Jardim Iracema
+64,Dec-13,0,0,0,Jardim Iracema
+64,Mar-12,75,45,18,Jardim Iracema
+64,Mar-13,7,4,0,Jardim Iracema
+64,Feb-13,8,4,0,Jardim Iracema
+64,Feb-12,32,23,7,Jardim Iracema
+65,Oct-12,2,2,0,João XXIII
+65,Oct-13,0,0,0,João XXIII
+65,Jan-13,8,6,0,João XXIII
+65,Jan-12,34,26,5,João XXIII
+65,May-13,56,22,5,João XXIII
+65,May-12,265,222,26,João XXIII
+65,Aug-13,21,3,2,João XXIII
+65,Aug-12,6,6,0,João XXIII
+65,Jun-13,39,17,2,João XXIII
+65,Jun-12,44,41,1,João XXIII
+65,Jul-13,32,16,5,João XXIII
+65,Jul-12,8,6,0,João XXIII
+65,Nov-13,0,0,0,João XXIII
+65,Nov-12,5,5,0,João XXIII
+65,Sep-12,3,3,0,João XXIII
+65,Sep-13,10,2,0,João XXIII
+65,Apr-13,34,15,2,João XXIII
+65,Apr-12,145,111,23,João XXIII
+65,Dec-12,2,2,0,João XXIII
+65,Dec-13,0,0,0,João XXIII
+65,Mar-12,83,66,11,João XXIII
+65,Mar-13,16,11,0,João XXIII
+65,Feb-13,10,4,2,João XXIII
+65,Feb-12,33,25,3,João XXIII
+66,Oct-12,1,1,0,Joaquim Távora
+66,Oct-13,0,0,0,Joaquim Távora
+66,Jan-13,2,0,0,Joaquim Távora
+66,Jan-12,5,4,0,Joaquim Távora
+66,May-13,8,6,0,Joaquim Távora
+66,May-12,263,238,13,Joaquim Távora
+66,Aug-13,11,3,1,Joaquim Távora
+66,Aug-12,2,2,0,Joaquim Távora
+66,Jun-13,5,1,1,Joaquim Távora
+66,Jun-12,30,28,2,Joaquim Távora
+66,Jul-13,16,3,2,Joaquim Távora
+66,Jul-12,4,3,0,Joaquim Távora
+66,Nov-13,0,0,0,Joaquim Távora
+66,Nov-12,1,0,0,Joaquim Távora
+66,Sep-12,1,1,0,Joaquim Távora
+66,Sep-13,4,0,2,Joaquim Távora
+66,Apr-13,16,9,1,Joaquim Távora
+66,Apr-12,137,122,7,Joaquim Távora
+66,Dec-12,0,0,0,Joaquim Távora
+66,Dec-13,0,0,0,Joaquim Távora
+66,Mar-12,44,39,4,Joaquim Távora
+66,Mar-13,8,2,1,Joaquim Távora
+66,Feb-13,6,3,0,Joaquim Távora
+66,Feb-12,11,10,0,Joaquim Távora
+67,Oct-12,1,0,0,Jóquei Clube
+67,Oct-13,0,0,0,Jóquei Clube
+67,Jan-13,1,0,0,Jóquei Clube
+67,Jan-12,11,8,0,Jóquei Clube
+67,May-13,14,4,2,Jóquei Clube
+67,May-12,161,134,13,Jóquei Clube
+67,Aug-13,16,10,0,Jóquei Clube
+67,Aug-12,3,3,0,Jóquei Clube
+67,Jun-13,13,5,2,Jóquei Clube
+67,Jun-12,14,11,2,Jóquei Clube
+67,Jul-13,18,7,4,Jóquei Clube
+67,Jul-12,2,2,0,Jóquei Clube
+67,Nov-13,0,0,0,Jóquei Clube
+67,Nov-12,1,1,0,Jóquei Clube
+67,Sep-12,1,1,0,Jóquei Clube
+67,Sep-13,4,1,0,Jóquei Clube
+67,Apr-13,11,5,0,Jóquei Clube
+67,Apr-12,65,51,7,Jóquei Clube
+67,Dec-12,0,0,0,Jóquei Clube
+67,Dec-13,0,0,0,Jóquei Clube
+67,Mar-12,13,11,1,Jóquei Clube
+67,Mar-13,6,3,0,Jóquei Clube
+67,Feb-13,5,1,0,Jóquei Clube
+67,Feb-12,2,2,0,Jóquei Clube
+68,Oct-12,0,0,0,José Bonifácio
+68,Oct-13,0,0,0,José Bonifácio
+68,Jan-13,1,0,0,José Bonifácio
+68,Jan-12,2,2,0,José Bonifácio
+68,May-13,1,0,1,José Bonifácio
+68,May-12,29,22,6,José Bonifácio
+68,Aug-13,1,0,0,José Bonifácio
+68,Aug-12,0,0,0,José Bonifácio
+68,Jun-13,1,0,0,José Bonifácio
+68,Jun-12,4,2,2,José Bonifácio
+68,Jul-13,1,0,1,José Bonifácio
+68,Jul-12,1,1,0,José Bonifácio
+68,Nov-13,0,0,0,José Bonifácio
+68,Nov-12,0,0,0,José Bonifácio
+68,Sep-12,0,0,0,José Bonifácio
+68,Sep-13,0,0,0,José Bonifácio
+68,Apr-13,3,0,1,José Bonifácio
+68,Apr-12,18,13,3,José Bonifácio
+68,Dec-12,0,0,0,José Bonifácio
+68,Dec-13,0,0,0,José Bonifácio
+68,Mar-12,9,6,1,José Bonifácio
+68,Mar-13,0,0,0,José Bonifácio
+68,Feb-13,0,0,0,José Bonifácio
+68,Feb-12,3,1,1,José Bonifácio
+69,Oct-12,1,1,0,Lagoa Redonda
+69,Oct-13,0,0,0,Lagoa Redonda
+69,Jan-13,6,2,0,Lagoa Redonda
+69,Jan-12,5,4,0,Lagoa Redonda
+69,May-13,49,32,2,Lagoa Redonda
+69,May-12,315,298,5,Lagoa Redonda
+69,Aug-13,12,9,0,Lagoa Redonda
+69,Aug-12,7,7,0,Lagoa Redonda
+69,Jun-13,51,27,2,Lagoa Redonda
+69,Jun-12,81,80,0,Lagoa Redonda
+69,Jul-13,28,11,3,Lagoa Redonda
+69,Jul-12,16,16,0,Lagoa Redonda
+69,Nov-13,0,0,0,Lagoa Redonda
+69,Nov-12,2,1,0,Lagoa Redonda
+69,Sep-12,3,2,0,Lagoa Redonda
+69,Sep-13,1,0,0,Lagoa Redonda
+69,Apr-13,72,44,2,Lagoa Redonda
+69,Apr-12,130,121,4,Lagoa Redonda
+69,Dec-12,3,1,0,Lagoa Redonda
+69,Dec-13,0,0,0,Lagoa Redonda
+69,Mar-12,31,23,2,Lagoa Redonda
+69,Mar-13,38,13,1,Lagoa Redonda
+69,Feb-13,17,5,1,Lagoa Redonda
+69,Feb-12,15,14,0,Lagoa Redonda
+70,Oct-12,8,4,1,Maraponga
+70,Oct-13,0,0,0,Maraponga
+70,Jan-13,7,2,1,Maraponga
+70,Jan-12,6,2,2,Maraponga
+70,May-13,27,9,7,Maraponga
+70,May-12,386,340,30,Maraponga
+70,Aug-13,29,7,7,Maraponga
+70,Aug-12,9,5,0,Maraponga
+70,Jun-13,49,10,14,Maraponga
+70,Jun-12,87,68,7,Maraponga
+70,Jul-13,40,11,12,Maraponga
+70,Jul-12,15,7,1,Maraponga
+70,Nov-13,0,0,0,Maraponga
+70,Nov-12,2,2,0,Maraponga
+70,Sep-12,5,1,0,Maraponga
+70,Sep-13,16,4,0,Maraponga
+70,Apr-13,24,9,1,Maraponga
+70,Apr-12,112,92,7,Maraponga
+70,Dec-12,3,2,0,Maraponga
+70,Dec-13,0,0,0,Maraponga
+70,Mar-12,28,17,5,Maraponga
+70,Mar-13,21,3,0,Maraponga
+70,Feb-13,11,2,0,Maraponga
+70,Feb-12,16,12,4,Maraponga
+71,Oct-12,1,0,0,Mata Galinha
+71,Oct-13,0,0,0,Mata Galinha
+71,Jan-13,3,2,0,Mata Galinha
+71,Jan-12,0,0,0,Mata Galinha
+71,May-13,12,6,1,Mata Galinha
+71,May-12,104,92,5,Mata Galinha
+71,Aug-13,5,3,1,Mata Galinha
+71,Aug-12,4,3,0,Mata Galinha
+71,Jun-13,13,8,1,Mata Galinha
+71,Jun-12,28,23,0,Mata Galinha
+71,Jul-13,17,14,2,Mata Galinha
+71,Jul-12,13,9,1,Mata Galinha
+71,Nov-13,0,0,0,Mata Galinha
+71,Nov-12,1,1,0,Mata Galinha
+71,Sep-12,2,2,0,Mata Galinha
+71,Sep-13,0,0,0,Mata Galinha
+71,Apr-13,10,5,1,Mata Galinha
+71,Apr-12,32,25,3,Mata Galinha
+71,Dec-12,1,1,0,Mata Galinha
+71,Dec-13,0,0,0,Mata Galinha
+71,Mar-12,12,10,0,Mata Galinha
+71,Mar-13,9,3,1,Mata Galinha
+71,Feb-13,5,2,0,Mata Galinha
+71,Feb-12,2,2,0,Mata Galinha
+72,Oct-12,1,0,1,Meireles
+72,Oct-13,0,0,0,Meireles
+72,Jan-13,3,0,0,Meireles
+72,Jan-12,1,1,0,Meireles
+72,May-13,10,0,0,Meireles
+72,May-12,50,38,10,Meireles
+72,Aug-13,15,0,0,Meireles
+72,Aug-12,1,0,1,Meireles
+72,Jun-13,19,1,3,Meireles
+72,Jun-12,10,7,0,Meireles
+72,Jul-13,16,1,3,Meireles
+72,Jul-12,2,2,0,Meireles
+72,Nov-13,0,0,0,Meireles
+72,Nov-12,1,0,1,Meireles
+72,Sep-12,0,0,0,Meireles
+72,Sep-13,3,0,2,Meireles
+72,Apr-13,20,5,2,Meireles
+72,Apr-12,43,29,9,Meireles
+72,Dec-12,1,0,1,Meireles
+72,Dec-13,0,0,0,Meireles
+72,Mar-12,22,14,5,Meireles
+72,Mar-13,8,1,2,Meireles
+72,Feb-13,5,1,0,Meireles
+72,Feb-12,8,5,1,Meireles
+73,Oct-12,14,10,1,Messejana
+73,Oct-13,0,0,0,Messejana
+73,Jan-13,14,5,0,Messejana
+73,Jan-12,9,4,1,Messejana
+73,May-13,120,55,6,Messejana
+73,May-12,601,546,35,Messejana
+73,Aug-13,48,19,5,Messejana
+73,Aug-12,26,24,0,Messejana
+73,Jun-13,103,24,21,Messejana
+73,Jun-12,137,122,6,Messejana
+73,Jul-13,87,33,12,Messejana
+73,Jul-12,43,40,1,Messejana
+73,Nov-13,0,0,0,Messejana
+73,Nov-12,4,2,0,Messejana
+73,Sep-12,16,11,1,Messejana
+73,Sep-13,13,3,1,Messejana
+73,Apr-13,135,55,6,Messejana
+73,Apr-12,281,234,25,Messejana
+73,Dec-12,12,10,0,Messejana
+73,Dec-13,0,0,0,Messejana
+73,Mar-12,101,83,4,Messejana
+73,Mar-13,92,32,3,Messejana
+73,Feb-13,25,9,0,Messejana
+73,Feb-12,32,25,3,Messejana
+74,Oct-12,9,3,0,Mondubim
+74,Oct-13,0,0,0,Mondubim
+74,Jan-13,19,10,1,Mondubim
+74,Jan-12,11,6,1,Mondubim
+74,May-13,130,39,37,Mondubim
+74,May-12,873,717,74,Mondubim
+74,Aug-13,88,19,24,Mondubim
+74,Aug-12,30,12,4,Mondubim
+74,Jun-13,186,52,58,Mondubim
+74,Jun-12,315,233,10,Mondubim
+74,Jul-13,115,21,39,Mondubim
+74,Jul-12,91,52,7,Mondubim
+74,Nov-13,0,0,0,Mondubim
+74,Nov-12,5,1,1,Mondubim
+74,Sep-12,15,8,0,Mondubim
+74,Sep-13,25,2,1,Mondubim
+74,Apr-13,104,20,11,Mondubim
+74,Apr-12,293,242,14,Mondubim
+74,Dec-12,4,1,0,Mondubim
+74,Dec-13,0,0,0,Mondubim
+74,Mar-12,50,27,7,Mondubim
+74,Mar-13,95,17,5,Mondubim
+74,Feb-13,51,15,2,Mondubim
+74,Feb-12,21,18,0,Mondubim
+75,Oct-12,1,0,1,Monte Castelo
+75,Oct-13,0,0,0,Monte Castelo
+75,Jan-13,2,0,0,Monte Castelo
+75,Jan-12,7,6,1,Monte Castelo
+75,May-13,10,1,1,Monte Castelo
+75,May-12,106,71,17,Monte Castelo
+75,Aug-13,12,6,1,Monte Castelo
+75,Aug-12,0,0,0,Monte Castelo
+75,Jun-13,10,3,4,Monte Castelo
+75,Jun-12,14,13,1,Monte Castelo
+75,Jul-13,11,6,2,Monte Castelo
+75,Jul-12,3,1,1,Monte Castelo
+75,Nov-13,0,0,0,Monte Castelo
+75,Nov-12,0,0,0,Monte Castelo
+75,Sep-12,0,0,0,Monte Castelo
+75,Sep-13,0,0,0,Monte Castelo
+75,Apr-13,10,4,1,Monte Castelo
+75,Apr-12,74,52,16,Monte Castelo
+75,Dec-12,1,1,0,Monte Castelo
+75,Dec-13,0,0,0,Monte Castelo
+75,Mar-12,24,18,4,Monte Castelo
+75,Mar-13,3,1,0,Monte Castelo
+75,Feb-13,0,0,0,Monte Castelo
+75,Feb-12,14,9,2,Monte Castelo
+76,Oct-12,6,3,2,Montese
+76,Oct-13,0,0,0,Montese
+76,Jan-13,9,2,1,Montese
+76,Jan-12,17,11,2,Montese
+76,May-13,34,11,1,Montese
+76,May-12,398,295,53,Montese
+76,Aug-13,31,16,4,Montese
+76,Aug-12,12,10,0,Montese
+76,Jun-13,23,6,5,Montese
+76,Jun-12,30,21,2,Montese
+76,Jul-13,36,14,9,Montese
+76,Jul-12,20,13,1,Montese
+76,Nov-13,0,0,0,Montese
+76,Nov-12,11,5,0,Montese
+76,Sep-12,7,6,0,Montese
+76,Sep-13,15,2,3,Montese
+76,Apr-13,35,11,1,Montese
+76,Apr-12,307,220,38,Montese
+76,Dec-12,3,0,1,Montese
+76,Dec-13,0,0,0,Montese
+76,Mar-12,113,78,15,Montese
+76,Mar-13,13,4,1,Montese
+76,Feb-13,6,2,0,Montese
+76,Feb-12,20,15,2,Montese
+77,Oct-12,0,0,0,Moura Brasil
+77,Oct-13,0,0,0,Moura Brasil
+77,Jan-13,0,0,0,Moura Brasil
+77,Jan-12,1,1,0,Moura Brasil
+77,May-13,0,0,0,Moura Brasil
+77,May-12,7,3,1,Moura Brasil
+77,Aug-13,1,0,0,Moura Brasil
+77,Aug-12,0,0,0,Moura Brasil
+77,Jun-13,1,0,0,Moura Brasil
+77,Jun-12,2,1,1,Moura Brasil
+77,Jul-13,1,0,0,Moura Brasil
+77,Jul-12,0,0,0,Moura Brasil
+77,Nov-13,0,0,0,Moura Brasil
+77,Nov-12,0,0,0,Moura Brasil
+77,Sep-12,0,0,0,Moura Brasil
+77,Sep-13,0,0,0,Moura Brasil
+77,Apr-13,2,0,0,Moura Brasil
+77,Apr-12,4,1,0,Moura Brasil
+77,Dec-12,0,0,0,Moura Brasil
+77,Dec-13,0,0,0,Moura Brasil
+77,Mar-12,1,0,1,Moura Brasil
+77,Mar-13,1,0,0,Moura Brasil
+77,Feb-13,0,0,0,Moura Brasil
+77,Feb-12,0,0,0,Moura Brasil
+78,Oct-12,3,2,0,Mucuripe
+78,Oct-13,0,0,0,Mucuripe
+78,Jan-13,3,1,0,Mucuripe
+78,Jan-12,4,2,0,Mucuripe
+78,May-13,2,1,1,Mucuripe
+78,May-12,103,88,1,Mucuripe
+78,Aug-13,0,0,0,Mucuripe
+78,Aug-12,1,0,0,Mucuripe
+78,Jun-13,1,0,0,Mucuripe
+78,Jun-12,8,8,0,Mucuripe
+78,Jul-13,4,1,0,Mucuripe
+78,Jul-12,1,1,0,Mucuripe
+78,Nov-13,0,0,0,Mucuripe
+78,Nov-12,0,0,0,Mucuripe
+78,Sep-12,0,0,0,Mucuripe
+78,Sep-13,0,0,0,Mucuripe
+78,Apr-13,10,3,0,Mucuripe
+78,Apr-12,54,51,2,Mucuripe
+78,Dec-12,0,0,0,Mucuripe
+78,Dec-13,0,0,0,Mucuripe
+78,Mar-12,9,7,0,Mucuripe
+78,Mar-13,2,1,0,Mucuripe
+78,Feb-13,0,0,0,Mucuripe
+78,Feb-12,3,3,0,Mucuripe
+79,Oct-12,0,0,0,Padre Andrade
+79,Oct-13,0,0,0,Padre Andrade
+79,Jan-13,1,0,0,Padre Andrade
+79,Jan-12,10,5,1,Padre Andrade
+79,May-13,14,5,1,Padre Andrade
+79,May-12,75,56,4,Padre Andrade
+79,Aug-13,7,4,0,Padre Andrade
+79,Aug-12,3,0,0,Padre Andrade
+79,Jun-13,13,7,0,Padre Andrade
+79,Jun-12,21,16,1,Padre Andrade
+79,Jul-13,1,1,0,Padre Andrade
+79,Jul-12,8,1,0,Padre Andrade
+79,Nov-13,0,0,0,Padre Andrade
+79,Nov-12,0,0,0,Padre Andrade
+79,Sep-12,0,0,0,Padre Andrade
+79,Sep-13,6,0,0,Padre Andrade
+79,Apr-13,6,3,2,Padre Andrade
+79,Apr-12,106,68,7,Padre Andrade
+79,Dec-12,1,1,0,Padre Andrade
+79,Dec-13,0,0,0,Padre Andrade
+79,Mar-12,62,52,5,Padre Andrade
+79,Mar-13,4,2,0,Padre Andrade
+79,Feb-13,1,1,0,Padre Andrade
+79,Feb-12,31,21,5,Padre Andrade
+80,Oct-12,1,1,0,Pan Americano
+80,Oct-13,0,0,0,Pan Americano
+80,Jan-13,2,2,0,Pan Americano
+80,Jan-12,4,4,0,Pan Americano
+80,May-13,16,12,0,Pan Americano
+80,May-12,223,192,9,Pan Americano
+80,Aug-13,21,12,4,Pan Americano
+80,Aug-12,4,4,0,Pan Americano
+80,Jun-13,13,6,2,Pan Americano
+80,Jun-12,47,41,4,Pan Americano
+80,Jul-13,17,9,5,Pan Americano
+80,Jul-12,17,13,2,Pan Americano
+80,Nov-13,0,0,0,Pan Americano
+80,Nov-12,2,1,0,Pan Americano
+80,Sep-12,1,0,0,Pan Americano
+80,Sep-13,8,2,1,Pan Americano
+80,Apr-13,13,5,0,Pan Americano
+80,Apr-12,62,48,6,Pan Americano
+80,Dec-12,3,2,0,Pan Americano
+80,Dec-13,0,0,0,Pan Americano
+80,Mar-12,20,14,1,Pan Americano
+80,Mar-13,7,5,0,Pan Americano
+80,Feb-13,5,2,1,Pan Americano
+80,Feb-12,5,4,0,Pan Americano
+81,Oct-12,0,0,0,Papicu
+81,Oct-13,0,0,0,Papicu
+81,Jan-13,2,1,0,Papicu
+81,Jan-12,0,0,0,Papicu
+81,May-13,9,2,2,Papicu
+81,May-12,78,70,4,Papicu
+81,Aug-13,15,1,3,Papicu
+81,Aug-12,2,1,1,Papicu
+81,Jun-13,28,1,6,Papicu
+81,Jun-12,27,25,0,Papicu
+81,Jul-13,13,1,4,Papicu
+81,Jul-12,4,4,0,Papicu
+81,Nov-13,0,0,0,Papicu
+81,Nov-12,2,1,0,Papicu
+81,Sep-12,0,0,0,Papicu
+81,Sep-13,3,0,0,Papicu
+81,Apr-13,21,11,1,Papicu
+81,Apr-12,40,30,5,Papicu
+81,Dec-12,0,0,0,Papicu
+81,Dec-13,0,0,0,Papicu
+81,Mar-12,18,14,1,Papicu
+81,Mar-13,19,8,0,Papicu
+81,Feb-13,8,2,1,Papicu
+81,Feb-12,3,3,0,Papicu
+82,Oct-12,2,2,0,Parangaba
+82,Oct-13,0,0,0,Parangaba
+82,Jan-13,11,7,0,Parangaba
+82,Jan-12,5,4,1,Parangaba
+82,May-13,35,17,5,Parangaba
+82,May-12,255,204,37,Parangaba
+82,Aug-13,33,13,3,Parangaba
+82,Aug-12,11,7,1,Parangaba
+82,Jun-13,23,8,2,Parangaba
+82,Jun-12,40,33,5,Parangaba
+82,Jul-13,34,17,8,Parangaba
+82,Jul-12,16,13,2,Parangaba
+82,Nov-13,0,0,0,Parangaba
+82,Nov-12,2,2,0,Parangaba
+82,Sep-12,4,4,0,Parangaba
+82,Sep-13,11,4,1,Parangaba
+82,Apr-13,29,13,0,Parangaba
+82,Apr-12,123,93,15,Parangaba
+82,Dec-12,4,3,0,Parangaba
+82,Dec-13,0,0,0,Parangaba
+82,Mar-12,65,54,7,Parangaba
+82,Mar-13,26,14,0,Parangaba
+82,Feb-13,9,2,0,Parangaba
+82,Feb-12,19,16,0,Parangaba
+83,Oct-12,2,0,0,Parque Araxá
+83,Oct-13,0,0,0,Parque Araxá
+83,Jan-13,0,0,0,Parque Araxá
+83,Jan-12,3,1,0,Parque Araxá
+83,May-13,19,7,9,Parque Araxá
+83,May-12,229,197,16,Parque Araxá
+83,Aug-13,9,3,3,Parque Araxá
+83,Aug-12,3,3,0,Parque Araxá
+83,Jun-13,26,12,5,Parque Araxá
+83,Jun-12,10,7,1,Parque Araxá
+83,Jul-13,28,17,4,Parque Araxá
+83,Jul-12,1,0,0,Parque Araxá
+83,Nov-13,0,0,0,Parque Araxá
+83,Nov-12,3,2,0,Parque Araxá
+83,Sep-12,3,3,0,Parque Araxá
+83,Sep-13,3,1,0,Parque Araxá
+83,Apr-13,6,2,0,Parque Araxá
+83,Apr-12,80,64,9,Parque Araxá
+83,Dec-12,0,0,0,Parque Araxá
+83,Dec-13,0,0,0,Parque Araxá
+83,Mar-12,7,2,3,Parque Araxá
+83,Mar-13,1,0,0,Parque Araxá
+83,Feb-13,1,0,0,Parque Araxá
+83,Feb-12,3,2,1,Parque Araxá
+84,Oct-12,2,2,0,Parque Dois Irmãos
+84,Oct-13,0,0,0,Parque Dois Irmãos
+84,Jan-13,6,2,2,Parque Dois Irmãos
+84,Jan-12,11,7,3,Parque Dois Irmãos
+84,May-13,14,4,1,Parque Dois Irmãos
+84,May-12,112,88,7,Parque Dois Irmãos
+84,Aug-13,24,7,12,Parque Dois Irmãos
+84,Aug-12,5,2,0,Parque Dois Irmãos
+84,Jun-13,19,6,7,Parque Dois Irmãos
+84,Jun-12,34,21,3,Parque Dois Irmãos
+84,Jul-13,17,6,10,Parque Dois Irmãos
+84,Jul-12,15,9,2,Parque Dois Irmãos
+84,Nov-13,0,0,0,Parque Dois Irmãos
+84,Nov-12,1,0,0,Parque Dois Irmãos
+84,Sep-12,2,2,0,Parque Dois Irmãos
+84,Sep-13,4,1,0,Parque Dois Irmãos
+84,Apr-13,13,2,0,Parque Dois Irmãos
+84,Apr-12,29,19,4,Parque Dois Irmãos
+84,Dec-12,1,1,0,Parque Dois Irmãos
+84,Dec-13,0,0,0,Parque Dois Irmãos
+84,Mar-12,11,6,1,Parque Dois Irmãos
+84,Mar-13,11,2,1,Parque Dois Irmãos
+84,Feb-13,8,3,1,Parque Dois Irmãos
+84,Feb-12,10,4,4,Parque Dois Irmãos
+85,Oct-12,0,0,0,Parque Iracema
+85,Oct-13,0,0,0,Parque Iracema
+85,Jan-13,0,0,0,Parque Iracema
+85,Jan-12,0,0,0,Parque Iracema
+85,May-13,1,0,0,Parque Iracema
+85,May-12,12,11,1,Parque Iracema
+85,Aug-13,0,0,0,Parque Iracema
+85,Aug-12,0,0,0,Parque Iracema
+85,Jun-13,1,0,1,Parque Iracema
+85,Jun-12,3,3,0,Parque Iracema
+85,Jul-13,0,0,0,Parque Iracema
+85,Jul-12,0,0,0,Parque Iracema
+85,Nov-13,0,0,0,Parque Iracema
+85,Nov-12,0,0,0,Parque Iracema
+85,Sep-12,0,0,0,Parque Iracema
+85,Sep-13,0,0,0,Parque Iracema
+85,Apr-13,2,0,0,Parque Iracema
+85,Apr-12,2,1,0,Parque Iracema
+85,Dec-12,0,0,0,Parque Iracema
+85,Dec-13,0,0,0,Parque Iracema
+85,Mar-12,1,1,0,Parque Iracema
+85,Mar-13,1,0,0,Parque Iracema
+85,Feb-13,0,0,0,Parque Iracema
+85,Feb-12,0,0,0,Parque Iracema
+86,Oct-12,0,0,0,Parque Manibura
+86,Oct-13,0,0,0,Parque Manibura
+86,Jan-13,2,1,0,Parque Manibura
+86,Jan-12,1,1,0,Parque Manibura
+86,May-13,6,2,2,Parque Manibura
+86,May-12,24,21,1,Parque Manibura
+86,Aug-13,8,2,1,Parque Manibura
+86,Aug-12,1,1,0,Parque Manibura
+86,Jun-13,5,2,1,Parque Manibura
+86,Jun-12,4,3,0,Parque Manibura
+86,Jul-13,6,1,4,Parque Manibura
+86,Jul-12,2,2,0,Parque Manibura
+86,Nov-13,0,0,0,Parque Manibura
+86,Nov-12,1,0,0,Parque Manibura
+86,Sep-12,0,0,0,Parque Manibura
+86,Sep-13,0,0,0,Parque Manibura
+86,Apr-13,2,0,0,Parque Manibura
+86,Apr-12,10,9,0,Parque Manibura
+86,Dec-12,0,0,0,Parque Manibura
+86,Dec-13,0,0,0,Parque Manibura
+86,Mar-12,3,2,0,Parque Manibura
+86,Mar-13,2,0,0,Parque Manibura
+86,Feb-13,0,0,0,Parque Manibura
+86,Feb-12,1,0,1,Parque Manibura
+87,Oct-12,0,0,0,Presidente Vargas
+87,Oct-13,0,0,0,Presidente Vargas
+87,Jan-13,4,3,0,Presidente Vargas
+87,Jan-12,4,3,0,Presidente Vargas
+87,May-13,23,8,3,Presidente Vargas
+87,May-12,53,49,1,Presidente Vargas
+87,Aug-13,22,5,3,Presidente Vargas
+87,Aug-12,2,1,0,Presidente Vargas
+87,Jun-13,22,11,2,Presidente Vargas
+87,Jun-12,21,20,0,Presidente Vargas
+87,Jul-13,37,6,3,Presidente Vargas
+87,Jul-12,8,7,0,Presidente Vargas
+87,Nov-13,0,0,0,Presidente Vargas
+87,Nov-12,0,0,0,Presidente Vargas
+87,Sep-12,1,1,0,Presidente Vargas
+87,Sep-13,4,1,1,Presidente Vargas
+87,Apr-13,14,5,0,Presidente Vargas
+87,Apr-12,14,13,0,Presidente Vargas
+87,Dec-12,1,0,0,Presidente Vargas
+87,Dec-13,0,0,0,Presidente Vargas
+87,Mar-12,4,3,0,Presidente Vargas
+87,Mar-13,17,0,0,Presidente Vargas
+87,Feb-13,11,0,0,Presidente Vargas
+87,Feb-12,0,0,0,Presidente Vargas
+89,Oct-12,2,1,0,Parque Santa Rosa
+89,Oct-13,0,0,0,Parque Santa Rosa
+89,Jan-13,8,5,0,Parque Santa Rosa
+89,Jan-12,7,5,0,Parque Santa Rosa
+89,May-13,32,16,2,Parque Santa Rosa
+89,May-12,105,89,7,Parque Santa Rosa
+89,Aug-13,31,4,6,Parque Santa Rosa
+89,Aug-12,3,2,0,Parque Santa Rosa
+89,Jun-13,49,16,2,Parque Santa Rosa
+89,Jun-12,36,33,0,Parque Santa Rosa
+89,Jul-13,66,16,7,Parque Santa Rosa
+89,Jul-12,6,4,1,Parque Santa Rosa
+89,Nov-13,0,0,0,Parque Santa Rosa
+89,Nov-12,1,0,0,Parque Santa Rosa
+89,Sep-12,0,0,0,Parque Santa Rosa
+89,Sep-13,2,0,0,Parque Santa Rosa
+89,Apr-13,31,12,1,Parque Santa Rosa
+89,Apr-12,54,43,3,Parque Santa Rosa
+89,Dec-12,0,0,0,Parque Santa Rosa
+89,Dec-13,0,0,0,Parque Santa Rosa
+89,Mar-12,23,15,4,Parque Santa Rosa
+89,Mar-13,12,0,0,Parque Santa Rosa
+89,Feb-13,15,3,0,Parque Santa Rosa
+89,Feb-12,9,7,0,Parque Santa Rosa
+90,Oct-12,2,2,0,Parque São José
+90,Oct-13,0,0,0,Parque São José
+90,Jan-13,6,4,0,Parque São José
+90,Jan-12,5,5,0,Parque São José
+90,May-13,16,2,1,Parque São José
+90,May-12,182,165,10,Parque São José
+90,Aug-13,25,4,2,Parque São José
+90,Aug-12,3,3,0,Parque São José
+90,Jun-13,42,9,5,Parque São José
+90,Jun-12,39,36,0,Parque São José
+90,Jul-13,38,11,2,Parque São José
+90,Jul-12,9,8,1,Parque São José
+90,Nov-13,0,0,0,Parque São José
+90,Nov-12,1,0,0,Parque São José
+90,Sep-12,3,3,0,Parque São José
+90,Sep-13,4,1,0,Parque São José
+90,Apr-13,28,7,0,Parque São José
+90,Apr-12,68,64,2,Parque São José
+90,Dec-12,0,0,0,Parque São José
+90,Dec-13,0,0,0,Parque São José
+90,Mar-12,28,24,2,Parque São José
+90,Mar-13,15,0,0,Parque São José
+90,Feb-13,20,6,2,Parque São José
+90,Feb-12,6,6,0,Parque São José
+91,Oct-12,2,0,0,Parquelândia
+91,Oct-13,0,0,0,Parquelândia
+91,Jan-13,3,1,0,Parquelândia
+91,Jan-12,18,10,5,Parquelândia
+91,May-13,37,15,7,Parquelândia
+91,May-12,272,208,31,Parquelândia
+91,Aug-13,28,10,7,Parquelândia
+91,Aug-12,2,1,0,Parquelândia
+91,Jun-13,24,12,5,Parquelândia
+91,Jun-12,32,28,4,Parquelândia
+91,Jul-13,33,14,10,Parquelândia
+91,Jul-12,9,5,2,Parquelândia
+91,Nov-13,0,0,0,Parquelândia
+91,Nov-12,1,1,0,Parquelândia
+91,Sep-12,1,0,0,Parquelândia
+91,Sep-13,1,1,0,Parquelândia
+91,Apr-13,24,14,3,Parquelândia
+91,Apr-12,115,88,20,Parquelândia
+91,Dec-12,1,1,0,Parquelândia
+91,Dec-13,0,0,0,Parquelândia
+91,Mar-12,41,23,12,Parquelândia
+91,Mar-13,10,6,1,Parquelândia
+91,Feb-13,5,1,1,Parquelândia
+91,Feb-12,22,15,2,Parquelândia
+92,Oct-12,0,0,0,Parreão
+92,Oct-13,0,0,0,Parreão
+92,Jan-13,1,0,0,Parreão
+92,Jan-12,0,0,0,Parreão
+92,May-13,0,0,0,Parreão
+92,May-12,9,6,2,Parreão
+92,Aug-13,1,1,0,Parreão
+92,Aug-12,0,0,0,Parreão
+92,Jun-13,2,0,2,Parreão
+92,Jun-12,0,0,0,Parreão
+92,Jul-13,0,0,0,Parreão
+92,Jul-12,0,0,0,Parreão
+92,Nov-13,0,0,0,Parreão
+92,Nov-12,0,0,0,Parreão
+92,Sep-12,0,0,0,Parreão
+92,Sep-13,0,0,0,Parreão
+92,Apr-13,0,0,0,Parreão
+92,Apr-12,1,1,0,Parreão
+92,Dec-12,0,0,0,Parreão
+92,Dec-13,0,0,0,Parreão
+92,Mar-12,3,1,1,Parreão
+92,Mar-13,0,0,0,Parreão
+92,Feb-13,0,0,0,Parreão
+92,Feb-12,0,0,0,Parreão
+93,Oct-12,7,5,1,Passaré
+93,Oct-13,0,0,0,Passaré
+93,Jan-13,12,4,0,Passaré
+93,Jan-12,6,4,0,Passaré
+93,May-13,47,14,14,Passaré
+93,May-12,305,240,31,Passaré
+93,Aug-13,34,9,11,Passaré
+93,Aug-12,15,4,1,Passaré
+93,Jun-13,59,14,19,Passaré
+93,Jun-12,123,79,5,Passaré
+93,Jul-13,53,17,20,Passaré
+93,Jul-12,36,21,3,Passaré
+93,Nov-13,0,0,0,Passaré
+93,Nov-12,4,4,0,Passaré
+93,Sep-12,7,5,0,Passaré
+93,Sep-13,18,0,0,Passaré
+93,Apr-13,32,14,0,Passaré
+93,Apr-12,113,79,17,Passaré
+93,Dec-12,5,2,0,Passaré
+93,Dec-13,0,0,0,Passaré
+93,Mar-12,28,17,2,Passaré
+93,Mar-13,30,10,1,Passaré
+93,Feb-13,23,14,0,Passaré
+93,Feb-12,8,4,3,Passaré
+94,Oct-12,1,1,0,Paupina
+94,Oct-13,0,0,0,Paupina
+94,Jan-13,0,0,0,Paupina
+94,Jan-12,1,0,0,Paupina
+94,May-13,32,19,1,Paupina
+94,May-12,169,165,0,Paupina
+94,Aug-13,10,6,1,Paupina
+94,Aug-12,3,3,0,Paupina
+94,Jun-13,29,20,0,Paupina
+94,Jun-12,48,47,0,Paupina
+94,Jul-13,26,22,2,Paupina
+94,Jul-12,4,4,0,Paupina
+94,Nov-13,0,0,0,Paupina
+94,Nov-12,0,0,0,Paupina
+94,Sep-12,0,0,0,Paupina
+94,Sep-13,2,0,0,Paupina
+94,Apr-13,28,12,1,Paupina
+94,Apr-12,18,18,0,Paupina
+94,Dec-12,2,2,0,Paupina
+94,Dec-13,0,0,0,Paupina
+94,Mar-12,7,7,0,Paupina
+94,Mar-13,27,3,1,Paupina
+94,Feb-13,7,0,0,Paupina
+94,Feb-12,1,1,0,Paupina
+95,Oct-12,0,0,0,Pedras
+95,Oct-13,0,0,0,Pedras
+95,Jan-13,0,0,0,Pedras
+95,Jan-12,0,0,0,Pedras
+95,May-13,10,6,0,Pedras
+95,May-12,9,7,1,Pedras
+95,Aug-13,3,3,0,Pedras
+95,Aug-12,2,2,0,Pedras
+95,Jun-13,5,4,1,Pedras
+95,Jun-12,3,3,0,Pedras
+95,Jul-13,6,2,0,Pedras
+95,Jul-12,1,1,0,Pedras
+95,Nov-13,0,0,0,Pedras
+95,Nov-12,0,0,0,Pedras
+95,Sep-12,1,1,0,Pedras
+95,Sep-13,0,0,0,Pedras
+95,Apr-13,1,1,0,Pedras
+95,Apr-12,15,12,1,Pedras
+95,Dec-12,1,1,0,Pedras
+95,Dec-13,0,0,0,Pedras
+95,Mar-12,2,2,0,Pedras
+95,Mar-13,4,1,0,Pedras
+95,Feb-13,1,0,0,Pedras
+95,Feb-12,0,0,0,Pedras
+96,Oct-12,3,2,0,Pici
+96,Oct-13,0,0,0,Pici
+96,Jan-13,9,8,0,Pici
+96,Jan-12,11,8,1,Pici
+96,May-13,26,15,3,Pici
+96,May-12,230,186,21,Pici
+96,Aug-13,46,23,8,Pici
+96,Aug-12,5,5,0,Pici
+96,Jun-13,38,16,11,Pici
+96,Jun-12,53,50,3,Pici
+96,Jul-13,58,39,7,Pici
+96,Jul-12,15,14,0,Pici
+96,Nov-13,0,0,0,Pici
+96,Nov-12,3,3,0,Pici
+96,Sep-12,1,1,0,Pici
+96,Sep-13,16,5,1,Pici
+96,Apr-13,24,13,1,Pici
+96,Apr-12,85,69,8,Pici
+96,Dec-12,3,3,0,Pici
+96,Dec-13,0,0,0,Pici
+96,Mar-12,45,34,7,Pici
+96,Mar-13,8,2,0,Pici
+96,Feb-13,8,3,0,Pici
+96,Feb-12,17,15,2,Pici
+97,Oct-12,0,0,0,Pirambu
+97,Oct-13,0,0,0,Pirambu
+97,Jan-13,0,0,0,Pirambu
+97,Jan-12,1,1,0,Pirambu
+97,May-13,4,4,0,Pirambu
+97,May-12,69,54,6,Pirambu
+97,Aug-13,3,3,0,Pirambu
+97,Aug-12,0,0,0,Pirambu
+97,Jun-13,3,3,0,Pirambu
+97,Jun-12,8,6,0,Pirambu
+97,Jul-13,7,3,2,Pirambu
+97,Jul-12,1,0,0,Pirambu
+97,Nov-13,0,0,0,Pirambu
+97,Nov-12,0,0,0,Pirambu
+97,Sep-12,0,0,0,Pirambu
+97,Sep-13,2,0,0,Pirambu
+97,Apr-13,6,5,0,Pirambu
+97,Apr-12,43,33,3,Pirambu
+97,Dec-12,0,0,0,Pirambu
+97,Dec-13,0,0,0,Pirambu
+97,Mar-12,4,3,0,Pirambu
+97,Mar-13,1,1,0,Pirambu
+97,Feb-13,0,0,0,Pirambu
+97,Feb-12,6,5,0,Pirambu
+98,Oct-12,9,2,3,Planalto Ayrton Senna
+98,Oct-13,0,0,0,Planalto Ayrton Senna
+98,Jan-13,9,0,0,Planalto Ayrton Senna
+98,Jan-12,5,2,0,Planalto Ayrton Senna
+98,May-13,52,4,19,Planalto Ayrton Senna
+98,May-12,312,225,51,Planalto Ayrton Senna
+98,Aug-13,63,18,23,Planalto Ayrton Senna
+98,Aug-12,33,4,6,Planalto Ayrton Senna
+98,Jun-13,94,26,48,Planalto Ayrton Senna
+98,Jun-12,145,70,15,Planalto Ayrton Senna
+98,Jul-13,83,20,39,Planalto Ayrton Senna
+98,Jul-12,52,24,7,Planalto Ayrton Senna
+98,Nov-13,0,0,0,Planalto Ayrton Senna
+98,Nov-12,1,1,0,Planalto Ayrton Senna
+98,Sep-12,21,8,5,Planalto Ayrton Senna
+98,Sep-13,11,0,1,Planalto Ayrton Senna
+98,Apr-13,42,7,5,Planalto Ayrton Senna
+98,Apr-12,85,68,7,Planalto Ayrton Senna
+98,Dec-12,5,1,0,Planalto Ayrton Senna
+98,Dec-13,0,0,0,Planalto Ayrton Senna
+98,Mar-12,17,8,2,Planalto Ayrton Senna
+98,Mar-13,36,3,1,Planalto Ayrton Senna
+98,Feb-13,11,1,0,Planalto Ayrton Senna
+98,Feb-12,4,2,0,Planalto Ayrton Senna
+99,Oct-12,0,0,0,Praia de Iracema
+99,Oct-13,0,0,0,Praia de Iracema
+99,Jan-13,0,0,0,Praia de Iracema
+99,Jan-12,1,0,0,Praia de Iracema
+99,May-13,4,1,0,Praia de Iracema
+99,May-12,42,39,0,Praia de Iracema
+99,Aug-13,3,1,0,Praia de Iracema
+99,Aug-12,1,1,0,Praia de Iracema
+99,Jun-13,2,0,1,Praia de Iracema
+99,Jun-12,6,5,0,Praia de Iracema
+99,Jul-13,2,0,1,Praia de Iracema
+99,Jul-12,3,3,0,Praia de Iracema
+99,Nov-13,0,0,0,Praia de Iracema
+99,Nov-12,0,0,0,Praia de Iracema
+99,Sep-12,0,0,0,Praia de Iracema
+99,Sep-13,0,0,0,Praia de Iracema
+99,Apr-13,4,3,0,Praia de Iracema
+99,Apr-12,23,17,4,Praia de Iracema
+99,Dec-12,0,0,0,Praia de Iracema
+99,Dec-13,0,0,0,Praia de Iracema
+99,Mar-12,10,6,2,Praia de Iracema
+99,Mar-13,5,2,1,Praia de Iracema
+99,Feb-13,1,1,0,Praia de Iracema
+99,Feb-12,5,2,0,Praia de Iracema
+100,Oct-12,2,1,1,Praia do Futuro
+100,Oct-13,0,0,0,Praia do Futuro
+100,Jan-13,1,0,0,Praia do Futuro
+100,Jan-12,8,7,0,Praia do Futuro
+100,May-13,4,2,1,Praia do Futuro
+100,May-12,163,153,1,Praia do Futuro
+100,Aug-13,2,1,1,Praia do Futuro
+100,Aug-12,4,4,0,Praia do Futuro
+100,Jun-13,2,2,0,Praia do Futuro
+100,Jun-12,80,79,0,Praia do Futuro
+100,Jul-13,2,1,0,Praia do Futuro
+100,Jul-12,8,8,0,Praia do Futuro
+100,Nov-13,0,0,0,Praia do Futuro
+100,Nov-12,0,0,0,Praia do Futuro
+100,Sep-12,3,3,0,Praia do Futuro
+100,Sep-13,2,1,0,Praia do Futuro
+100,Apr-13,33,27,0,Praia do Futuro
+100,Apr-12,35,35,0,Praia do Futuro
+100,Dec-12,1,0,0,Praia do Futuro
+100,Dec-13,0,1,0,Praia do Futuro
+100,Mar-12,22,16,0,Praia do Futuro
+100,Mar-13,16,12,1,Praia do Futuro
+100,Feb-13,2,0,0,Praia do Futuro
+100,Feb-12,7,6,0,Praia do Futuro
+101,Oct-12,9,2,2,Prefeito José Walter
+101,Oct-13,0,0,0,Prefeito José Walter
+101,Jan-13,17,2,0,Prefeito José Walter
+101,Jan-12,8,3,1,Prefeito José Walter
+101,May-13,48,9,18,Prefeito José Walter
+101,May-12,524,340,115,Prefeito José Walter
+101,Aug-13,72,9,29,Prefeito José Walter
+101,Aug-12,16,5,1,Prefeito José Walter
+101,Jun-13,76,13,36,Prefeito José Walter
+101,Jun-12,157,83,29,Prefeito José Walter
+101,Jul-13,88,18,48,Prefeito José Walter
+101,Jul-12,69,33,7,Prefeito José Walter
+101,Nov-13,0,0,0,Prefeito José Walter
+101,Nov-12,4,1,0,Prefeito José Walter
+101,Sep-12,8,5,1,Prefeito José Walter
+101,Sep-13,11,0,2,Prefeito José Walter
+101,Apr-13,41,6,3,Prefeito José Walter
+101,Apr-12,310,226,57,Prefeito José Walter
+101,Dec-12,5,0,0,Prefeito José Walter
+101,Dec-13,0,0,0,Prefeito José Walter
+101,Mar-12,37,22,7,Prefeito José Walter
+101,Mar-13,44,4,2,Prefeito José Walter
+101,Feb-13,28,1,1,Prefeito José Walter
+101,Feb-12,11,1,2,Prefeito José Walter
+102,Oct-12,0,0,0,Presidente Kennedy
+102,Oct-13,0,0,0,Presidente Kennedy
+102,Jan-13,4,2,0,Presidente Kennedy
+102,Jan-12,2,2,0,Presidente Kennedy
+102,May-13,6,5,0,Presidente Kennedy
+102,May-12,108,78,15,Presidente Kennedy
+102,Aug-13,4,2,0,Presidente Kennedy
+102,Aug-12,1,1,0,Presidente Kennedy
+102,Jun-13,3,2,0,Presidente Kennedy
+102,Jun-12,15,13,0,Presidente Kennedy
+102,Jul-13,7,4,0,Presidente Kennedy
+102,Jul-12,2,2,0,Presidente Kennedy
+102,Nov-13,0,0,0,Presidente Kennedy
+102,Nov-12,0,0,0,Presidente Kennedy
+102,Sep-12,1,1,0,Presidente Kennedy
+102,Sep-13,10,1,0,Presidente Kennedy
+102,Apr-13,11,4,1,Presidente Kennedy
+102,Apr-12,86,67,15,Presidente Kennedy
+102,Dec-12,0,0,0,Presidente Kennedy
+102,Dec-13,0,0,0,Presidente Kennedy
+102,Mar-12,91,73,11,Presidente Kennedy
+102,Mar-13,4,0,0,Presidente Kennedy
+102,Feb-13,2,1,0,Presidente Kennedy
+102,Feb-12,10,9,1,Presidente Kennedy
+103,Oct-12,0,0,0,Quintino Cunha
+103,Oct-13,0,0,0,Quintino Cunha
+103,Jan-13,5,3,0,Quintino Cunha
+103,Jan-12,17,11,5,Quintino Cunha
+103,May-13,27,18,1,Quintino Cunha
+103,May-12,249,209,27,Quintino Cunha
+103,Aug-13,24,9,6,Quintino Cunha
+103,Aug-12,0,0,0,Quintino Cunha
+103,Jun-13,30,20,3,Quintino Cunha
+103,Jun-12,55,52,1,Quintino Cunha
+103,Jul-13,25,13,8,Quintino Cunha
+103,Jul-12,2,2,0,Quintino Cunha
+103,Nov-13,0,0,0,Quintino Cunha
+103,Nov-12,1,1,0,Quintino Cunha
+103,Sep-12,0,0,0,Quintino Cunha
+103,Sep-13,12,1,1,Quintino Cunha
+103,Apr-13,20,15,0,Quintino Cunha
+103,Apr-12,115,93,13,Quintino Cunha
+103,Dec-12,1,0,0,Quintino Cunha
+103,Dec-13,0,0,0,Quintino Cunha
+103,Mar-12,67,52,10,Quintino Cunha
+103,Mar-13,11,5,0,Quintino Cunha
+103,Feb-13,6,2,1,Quintino Cunha
+103,Feb-12,40,30,5,Quintino Cunha
+104,Oct-12,1,1,0,Rodolfo Teófilo
+104,Oct-13,0,0,0,Rodolfo Teófilo
+104,Jan-13,5,3,0,Rodolfo Teófilo
+104,Jan-12,7,4,1,Rodolfo Teófilo
+104,May-13,44,28,7,Rodolfo Teófilo
+104,May-12,443,345,51,Rodolfo Teófilo
+104,Aug-13,33,20,6,Rodolfo Teófilo
+104,Aug-12,5,5,0,Rodolfo Teófilo
+104,Jun-13,58,36,14,Rodolfo Teófilo
+104,Jun-12,66,45,11,Rodolfo Teófilo
+104,Jul-13,41,28,9,Rodolfo Teófilo
+104,Jul-12,17,14,1,Rodolfo Teófilo
+104,Nov-13,0,0,0,Rodolfo Teófilo
+104,Nov-12,2,2,0,Rodolfo Teófilo
+104,Sep-12,1,0,1,Rodolfo Teófilo
+104,Sep-13,14,9,1,Rodolfo Teófilo
+104,Apr-13,36,17,4,Rodolfo Teófilo
+104,Apr-12,144,115,22,Rodolfo Teófilo
+104,Dec-12,1,0,0,Rodolfo Teófilo
+104,Dec-13,0,0,0,Rodolfo Teófilo
+104,Mar-12,23,13,5,Rodolfo Teófilo
+104,Mar-13,11,6,1,Rodolfo Teófilo
+104,Feb-13,5,2,1,Rodolfo Teófilo
+104,Feb-12,22,14,2,Rodolfo Teófilo
+105,Oct-12,0,0,0,Sabiaguaba
+105,Oct-13,0,0,0,Sabiaguaba
+105,Jan-13,1,0,0,Sabiaguaba
+105,Jan-12,2,2,0,Sabiaguaba
+105,May-13,20,4,0,Sabiaguaba
+105,May-12,29,29,0,Sabiaguaba
+105,Aug-13,6,0,2,Sabiaguaba
+105,Aug-12,0,0,0,Sabiaguaba
+105,Jun-13,10,4,2,Sabiaguaba
+105,Jun-12,12,10,0,Sabiaguaba
+105,Jul-13,5,2,0,Sabiaguaba
+105,Jul-12,6,6,0,Sabiaguaba
+105,Nov-13,0,0,0,Sabiaguaba
+105,Nov-12,0,0,0,Sabiaguaba
+105,Sep-12,0,0,0,Sabiaguaba
+105,Sep-13,0,0,0,Sabiaguaba
+105,Apr-13,22,10,0,Sabiaguaba
+105,Apr-12,6,6,0,Sabiaguaba
+105,Dec-12,1,1,0,Sabiaguaba
+105,Dec-13,0,0,0,Sabiaguaba
+105,Mar-12,4,4,0,Sabiaguaba
+105,Mar-13,10,3,0,Sabiaguaba
+105,Feb-13,5,2,0,Sabiaguaba
+105,Feb-12,0,0,0,Sabiaguaba
+106,Oct-12,0,0,0,Salinas
+106,Oct-13,0,0,0,Salinas
+106,Jan-13,0,0,0,Salinas
+106,Jan-12,0,0,0,Salinas
+106,May-13,0,0,0,Salinas
+106,May-12,2,2,0,Salinas
+106,Aug-13,1,0,1,Salinas
+106,Aug-12,0,0,0,Salinas
+106,Jun-13,1,0,1,Salinas
+106,Jun-12,1,1,0,Salinas
+106,Jul-13,0,0,0,Salinas
+106,Jul-12,0,0,0,Salinas
+106,Nov-13,0,0,0,Salinas
+106,Nov-12,0,0,0,Salinas
+106,Sep-12,0,0,0,Salinas
+106,Sep-13,0,0,0,Salinas
+106,Apr-13,1,1,0,Salinas
+106,Apr-12,1,1,0,Salinas
+106,Dec-12,0,0,0,Salinas
+106,Dec-13,0,0,0,Salinas
+106,Mar-12,1,1,0,Salinas
+106,Mar-13,1,0,0,Salinas
+106,Feb-13,0,0,0,Salinas
+106,Feb-12,0,0,0,Salinas
+107,Oct-12,0,0,0,São Bento
+107,Oct-13,0,0,0,São Bento
+107,Jan-13,0,0,0,São Bento
+107,Jan-12,0,0,0,São Bento
+107,May-13,0,0,0,São Bento
+107,May-12,1,1,0,São Bento
+107,Aug-13,0,0,0,São Bento
+107,Aug-12,0,0,0,São Bento
+107,Jun-13,1,0,0,São Bento
+107,Jun-12,1,1,0,São Bento
+107,Jul-13,2,0,2,São Bento
+107,Jul-12,0,0,0,São Bento
+107,Nov-13,0,0,0,São Bento
+107,Nov-12,0,0,0,São Bento
+107,Sep-12,0,0,0,São Bento
+107,Sep-13,0,0,0,São Bento
+107,Apr-13,0,0,0,São Bento
+107,Apr-12,0,0,0,São Bento
+107,Dec-12,0,0,0,São Bento
+107,Dec-13,0,0,0,São Bento
+107,Mar-12,0,0,0,São Bento
+107,Mar-13,2,0,0,São Bento
+107,Feb-13,0,0,0,São Bento
+107,Feb-12,0,0,0,São Bento
+108,Oct-12,0,0,0,São Gerardo
+108,Oct-13,0,0,0,São Gerardo
+108,Jan-13,2,0,0,São Gerardo
+108,Jan-12,1,1,0,São Gerardo
+108,May-13,2,1,0,São Gerardo
+108,May-12,78,53,21,São Gerardo
+108,Aug-13,11,8,0,São Gerardo
+108,Aug-12,2,0,1,São Gerardo
+108,Jun-13,10,4,0,São Gerardo
+108,Jun-12,7,5,1,São Gerardo
+108,Jul-13,7,4,1,São Gerardo
+108,Jul-12,1,1,0,São Gerardo
+108,Nov-13,0,0,0,São Gerardo
+108,Nov-12,0,0,0,São Gerardo
+108,Sep-12,0,0,0,São Gerardo
+108,Sep-13,0,0,0,São Gerardo
+108,Apr-13,5,2,0,São Gerardo
+108,Apr-12,55,32,14,São Gerardo
+108,Dec-12,0,0,0,São Gerardo
+108,Dec-13,0,0,0,São Gerardo
+108,Mar-12,16,9,5,São Gerardo
+108,Mar-13,3,2,0,São Gerardo
+108,Feb-13,3,2,0,São Gerardo
+108,Feb-12,9,2,7,São Gerardo
+109,Oct-12,1,1,0,São João do Tauape
+109,Oct-13,0,0,0,São João do Tauape
+109,Jan-13,4,1,0,São João do Tauape
+109,Jan-12,10,10,0,São João do Tauape
+109,May-13,22,9,2,São João do Tauape
+109,May-12,628,607,8,São João do Tauape
+109,Aug-13,14,6,0,São João do Tauape
+109,Aug-12,10,9,0,São João do Tauape
+109,Jun-13,21,9,1,São João do Tauape
+109,Jun-12,186,176,2,São João do Tauape
+109,Jul-13,19,11,1,São João do Tauape
+109,Jul-12,16,14,0,São João do Tauape
+109,Nov-13,0,0,0,São João do Tauape
+109,Nov-12,1,1,0,São João do Tauape
+109,Sep-12,2,2,0,São João do Tauape
+109,Sep-13,4,1,1,São João do Tauape
+109,Apr-13,37,21,0,São João do Tauape
+109,Apr-12,295,277,5,São João do Tauape
+109,Dec-12,3,2,0,São João do Tauape
+109,Dec-13,0,0,0,São João do Tauape
+109,Mar-12,100,94,4,São João do Tauape
+109,Mar-13,16,9,1,São João do Tauape
+109,Feb-13,6,3,0,São João do Tauape
+109,Feb-12,13,12,0,São João do Tauape
+110,Oct-12,1,0,0,Sapiranga
+110,Oct-13,0,0,0,Sapiranga
+110,Jan-13,2,1,0,Sapiranga
+110,Jan-12,0,0,0,Sapiranga
+110,May-13,12,5,2,Sapiranga
+110,May-12,40,30,3,Sapiranga
+110,Aug-13,13,5,1,Sapiranga
+110,Aug-12,1,1,0,Sapiranga
+110,Jun-13,4,0,1,Sapiranga
+110,Jun-12,14,11,0,Sapiranga
+110,Jul-13,13,9,0,Sapiranga
+110,Jul-12,4,4,0,Sapiranga
+110,Nov-13,0,0,0,Sapiranga
+110,Nov-12,1,1,0,Sapiranga
+110,Sep-12,0,0,0,Sapiranga
+110,Sep-13,1,0,0,Sapiranga
+110,Apr-13,11,3,0,Sapiranga
+110,Apr-12,17,14,1,Sapiranga
+110,Dec-12,0,0,0,Sapiranga
+110,Dec-13,0,0,0,Sapiranga
+110,Mar-12,1,0,0,Sapiranga
+110,Mar-13,9,4,1,Sapiranga
+110,Feb-13,2,1,1,Sapiranga
+110,Feb-12,0,0,0,Sapiranga
+111,Oct-12,4,0,0,Serrinha
+111,Oct-13,0,0,0,Serrinha
+111,Jan-13,6,3,1,Serrinha
+111,Jan-12,14,9,1,Serrinha
+111,May-13,40,19,3,Serrinha
+111,May-12,506,402,42,Serrinha
+111,Aug-13,36,12,3,Serrinha
+111,Aug-12,16,10,1,Serrinha
+111,Jun-13,39,8,10,Serrinha
+111,Jun-12,99,69,6,Serrinha
+111,Jul-13,31,11,11,Serrinha
+111,Jul-12,32,24,2,Serrinha
+111,Nov-13,0,0,0,Serrinha
+111,Nov-12,6,3,0,Serrinha
+111,Sep-12,6,2,0,Serrinha
+111,Sep-13,14,6,1,Serrinha
+111,Apr-13,50,17,1,Serrinha
+111,Apr-12,150,113,16,Serrinha
+111,Dec-12,4,1,0,Serrinha
+111,Dec-13,0,0,0,Serrinha
+111,Mar-12,35,27,2,Serrinha
+111,Mar-13,31,7,2,Serrinha
+111,Feb-13,18,8,0,Serrinha
+111,Feb-12,12,10,1,Serrinha
+112,Oct-12,2,2,0,Siqueira
+112,Oct-13,0,0,0,Siqueira
+112,Jan-13,3,3,0,Siqueira
+112,Jan-12,7,7,0,Siqueira
+112,May-13,39,18,3,Siqueira
+112,May-12,91,66,3,Siqueira
+112,Aug-13,16,3,0,Siqueira
+112,Aug-12,3,3,0,Siqueira
+112,Jun-13,71,14,6,Siqueira
+112,Jun-12,47,29,0,Siqueira
+112,Jul-13,38,7,4,Siqueira
+112,Jul-12,12,6,0,Siqueira
+112,Nov-13,0,0,0,Siqueira
+112,Nov-12,0,0,0,Siqueira
+112,Sep-12,3,3,0,Siqueira
+112,Sep-13,5,2,1,Siqueira
+112,Apr-13,34,7,0,Siqueira
+112,Apr-12,44,23,7,Siqueira
+112,Dec-12,4,3,0,Siqueira
+112,Dec-13,0,0,0,Siqueira
+112,Mar-12,12,10,0,Siqueira
+112,Mar-13,30,5,0,Siqueira
+112,Feb-13,17,2,0,Siqueira
+112,Feb-12,4,4,0,Siqueira
+113,Oct-12,0,0,0,Varjota
+113,Oct-13,0,0,0,Varjota
+113,Jan-13,1,0,0,Varjota
+113,Jan-12,1,0,0,Varjota
+113,May-13,5,2,0,Varjota
+113,May-12,42,39,2,Varjota
+113,Aug-13,2,0,0,Varjota
+113,Aug-12,0,0,0,Varjota
+113,Jun-13,0,0,0,Varjota
+113,Jun-12,3,2,1,Varjota
+113,Jul-13,1,1,0,Varjota
+113,Jul-12,1,0,1,Varjota
+113,Nov-13,0,0,0,Varjota
+113,Nov-12,0,0,0,Varjota
+113,Sep-12,0,0,0,Varjota
+113,Sep-13,0,0,0,Varjota
+113,Apr-13,6,3,0,Varjota
+113,Apr-12,13,8,2,Varjota
+113,Dec-12,0,0,0,Varjota
+113,Dec-13,0,0,0,Varjota
+113,Mar-12,8,7,1,Varjota
+113,Mar-13,3,1,0,Varjota
+113,Feb-13,0,0,0,Varjota
+113,Feb-12,2,0,1,Varjota
+114,Oct-12,1,1,0,Vicente Pizón
+114,Oct-13,0,0,0,Vicente Pizón
+114,Jan-13,1,0,0,Vicente Pizón
+114,Jan-12,6,6,0,Vicente Pizón
+114,May-13,7,7,0,Vicente Pizón
+114,May-12,181,169,3,Vicente Pizón
+114,Aug-13,9,2,3,Vicente Pizón
+114,Aug-12,4,2,0,Vicente Pizón
+114,Jun-13,4,1,1,Vicente Pizón
+114,Jun-12,58,55,0,Vicente Pizón
+114,Jul-13,5,0,4,Vicente Pizón
+114,Jul-12,13,12,0,Vicente Pizón
+114,Nov-13,0,0,0,Vicente Pizón
+114,Nov-12,0,0,0,Vicente Pizón
+114,Sep-12,0,0,0,Vicente Pizón
+114,Sep-13,0,0,0,Vicente Pizón
+114,Apr-13,26,20,0,Vicente Pizón
+114,Apr-12,81,74,4,Vicente Pizón
+114,Dec-12,0,0,0,Vicente Pizón
+114,Dec-13,0,0,0,Vicente Pizón
+114,Mar-12,46,36,0,Vicente Pizón
+114,Mar-13,9,7,0,Vicente Pizón
+114,Feb-13,1,0,0,Vicente Pizón
+114,Feb-12,11,7,1,Vicente Pizón
+115,Oct-12,3,2,0,Vila Manoel Sátiro
+115,Oct-13,0,0,0,Vila Manoel Sátiro
+115,Jan-13,4,4,0,Vila Manoel Sátiro
+115,Jan-12,4,3,0,Vila Manoel Sátiro
+115,May-13,25,10,2,Vila Manoel Sátiro
+115,May-12,314,275,35,Vila Manoel Sátiro
+115,Aug-13,40,13,4,Vila Manoel Sátiro
+115,Aug-12,10,9,0,Vila Manoel Sátiro
+115,Jun-13,60,25,4,Vila Manoel Sátiro
+115,Jun-12,71,63,3,Vila Manoel Sátiro
+115,Jul-13,42,19,2,Vila Manoel Sátiro
+115,Jul-12,21,18,1,Vila Manoel Sátiro
+115,Nov-13,0,0,0,Vila Manoel Sátiro
+115,Nov-12,4,4,0,Vila Manoel Sátiro
+115,Sep-12,3,3,0,Vila Manoel Sátiro
+115,Sep-13,6,4,0,Vila Manoel Sátiro
+115,Apr-13,41,12,1,Vila Manoel Sátiro
+115,Apr-12,111,106,3,Vila Manoel Sátiro
+115,Dec-12,1,0,0,Vila Manoel Sátiro
+115,Dec-13,0,0,0,Vila Manoel Sátiro
+115,Mar-12,25,22,1,Vila Manoel Sátiro
+115,Mar-13,20,6,0,Vila Manoel Sátiro
+115,Feb-13,14,4,0,Vila Manoel Sátiro
+115,Feb-12,9,9,0,Vila Manoel Sátiro
+116,Oct-12,1,1,0,Vila Pery
+116,Oct-13,0,0,0,Vila Pery
+116,Jan-13,7,4,0,Vila Pery
+116,Jan-12,5,4,0,Vila Pery
+116,May-13,19,9,1,Vila Pery
+116,May-12,130,113,11,Vila Pery
+116,Aug-13,33,11,2,Vila Pery
+116,Aug-12,7,6,0,Vila Pery
+116,Jun-13,32,11,6,Vila Pery
+116,Jun-12,29,29,0,Vila Pery
+116,Jul-13,26,9,3,Vila Pery
+116,Jul-12,7,6,0,Vila Pery
+116,Nov-13,0,0,0,Vila Pery
+116,Nov-12,2,2,0,Vila Pery
+116,Sep-12,4,4,0,Vila Pery
+116,Sep-13,9,5,1,Vila Pery
+116,Apr-13,13,4,0,Vila Pery
+116,Apr-12,52,45,2,Vila Pery
+116,Dec-12,4,4,0,Vila Pery
+116,Dec-13,0,0,0,Vila Pery
+116,Mar-12,22,20,2,Vila Pery
+116,Mar-13,19,5,0,Vila Pery
+116,Feb-13,6,3,0,Vila Pery
+116,Feb-12,7,5,0,Vila Pery
+117,Oct-12,8,4,0,Vila União
+117,Oct-13,0,0,0,Vila União
+117,Jan-13,7,2,0,Vila União
+117,Jan-12,13,9,1,Vila União
+117,May-13,22,10,1,Vila União
+117,May-12,435,361,22,Vila União
+117,Aug-13,28,9,4,Vila União
+117,Aug-12,10,6,1,Vila União
+117,Jun-13,24,10,5,Vila União
+117,Jun-12,73,54,2,Vila União
+117,Jul-13,31,8,4,Vila União
+117,Jul-12,40,32,2,Vila União
+117,Nov-13,0,0,0,Vila União
+117,Nov-12,3,1,0,Vila União
+117,Sep-12,4,2,0,Vila União
+117,Sep-13,7,3,0,Vila União
+117,Apr-13,18,7,0,Vila União
+117,Apr-12,105,64,11,Vila União
+117,Dec-12,3,1,0,Vila União
+117,Dec-13,0,0,0,Vila União
+117,Mar-12,37,21,9,Vila União
+117,Mar-13,18,6,0,Vila União
+117,Feb-13,13,5,0,Vila União
+117,Feb-12,7,6,0,Vila União
+118,Oct-12,0,0,0,Vila Velha
+118,Oct-13,0,0,0,Vila Velha
+118,Jan-13,2,1,0,Vila Velha
+118,Jan-12,12,7,4,Vila Velha
+118,May-13,31,13,12,Vila Velha
+118,May-12,138,105,23,Vila Velha
+118,Aug-13,26,11,5,Vila Velha
+118,Aug-12,0,0,0,Vila Velha
+118,Jun-13,48,19,18,Vila Velha
+118,Jun-12,28,25,1,Vila Velha
+118,Jul-13,28,8,13,Vila Velha
+118,Jul-12,2,1,0,Vila Velha
+118,Nov-13,0,0,0,Vila Velha
+118,Nov-12,1,0,0,Vila Velha
+118,Sep-12,1,0,0,Vila Velha
+118,Sep-13,6,0,1,Vila Velha
+118,Apr-13,19,13,2,Vila Velha
+118,Apr-12,33,26,2,Vila Velha
+118,Dec-12,0,0,0,Vila Velha
+118,Dec-13,0,0,0,Vila Velha
+118,Mar-12,33,23,6,Vila Velha
+118,Mar-13,8,6,0,Vila Velha
+118,Feb-13,1,1,0,Vila Velha
+118,Feb-12,7,6,1,Vila Velha
